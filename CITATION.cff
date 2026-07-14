@@ -6,6 +6,12 @@ authors:
     given-names: Serhii
     affiliation: "Cherkasy State Business College, Cherkasy, Ukraine"
     orcid: "https://orcid.org/0000-0003-0242-2234"
+  - family-names: Rudnytskyi
+    given-names: Volodymyr
+    affiliation: "State Scientific Research Institute of Armament and Military Equipment Testing and Certification, Cherkasy, Ukraine"
+  - family-names: Haponenko
+    given-names: Hryhorii
+    affiliation: "State Scientific Research Institute of Armament and Military Equipment Testing and Certification, Cherkasy, Ukraine"
 license: MIT
 repository-code: "https://github.com/SZabolotnii/Ku-CET-DSGE-code-supplement"
 preferred-citation:
@@ -14,5 +20,9 @@ preferred-citation:
   authors:
     - family-names: Zabolotnii
       given-names: Serhii
+    - family-names: Rudnytskyi
+      given-names: Volodymyr
+    - family-names: Haponenko
+      given-names: Hryhorii
   year: 2026
   notes: "Submitted to Pragmatic Cybersecurity (Scilight Press)."
