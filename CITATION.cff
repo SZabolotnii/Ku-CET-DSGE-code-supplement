@@ -10,7 +10,7 @@ authors:
     given-names: Volodymyr
     affiliation: "State Scientific Research Institute of Armament and Military Equipment Testing and Certification, Cherkasy, Ukraine"
   - family-names: Haponenko
-    given-names: Hryhorii
+    given-names: Hennadii
     affiliation: "State Scientific Research Institute of Armament and Military Equipment Testing and Certification, Cherkasy, Ukraine"
 license: MIT
 repository-code: "https://github.com/SZabolotnii/Ku-CET-DSGE-code-supplement"
@@ -23,6 +23,6 @@ preferred-citation:
     - family-names: Rudnytskyi
       given-names: Volodymyr
     - family-names: Haponenko
-      given-names: Hryhorii
+      given-names: Hennadii
   year: 2026
   notes: "Submitted to Pragmatic Cybersecurity (Scilight Press)."
