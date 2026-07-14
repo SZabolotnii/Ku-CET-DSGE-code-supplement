@@ -1,0 +1,4 @@
+method,spearman_vs_composite,top10_overlap,top25_overlap,top50_overlap,real_top50_share
+rule_based_rank,0.936360609697185,0.4,0.44,0.58,0.0
+generating_element_rank,-0.33912398585538855,0.0,0.0,0.0,0.0
+hybrid_rank,0.9913902772794093,0.8,0.96,0.92,0.0

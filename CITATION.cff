@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "Ku-CET-DSGE-code-supplement: reproduction package for Open-Set Screening of CET Stream-Cipher Operations in a Generating-Element Space"
+authors:
+  - family-names: Zabolotnii
+    given-names: Serhii
+    affiliation: "Cherkasy State Business College, Cherkasy, Ukraine"
+    orcid: "https://orcid.org/0000-0003-0242-2234"
+license: MIT
+repository-code: "https://github.com/SZabolotnii/Ku-CET-DSGE-code-supplement"
+preferred-citation:
+  type: article
+  title: "Open-Set Screening of CET Stream-Cipher Operations in a Generating-Element Space"
+  authors:
+    - family-names: Zabolotnii
+      given-names: Serhii
+  year: 2026
+  notes: "Submitted to Pragmatic Cybersecurity (Scilight Press)."

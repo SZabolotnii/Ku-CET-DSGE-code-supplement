@@ -1,0 +1,1025 @@
+operation_id,mapping,source,source_detail,base_index,output_permutation,inversion_mask,effective_substitution_tables,control_bits,reconstructed_from_public_description,label_source,is_reconstructed,permutation_id
+real_b01_p01_m000,0 1 2 3 4 5 6 7,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,1.0,0 1 2,0.0,8,3,True,public_description_reconstruction,True,012
+real_b01_p01_m001,1 0 3 2 5 4 7 6,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,1.0,0 1 2,1.0,192,3,True,public_description_reconstruction,True,012
+real_b01_p01_m010,2 3 0 1 6 7 4 5,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,1.0,0 1 2,2.0,192,3,True,public_description_reconstruction,True,012
+real_b01_p01_m011,3 2 1 0 7 6 5 4,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,1.0,0 1 2,3.0,192,3,True,public_description_reconstruction,True,012
+real_b01_p01_m100,4 5 6 7 0 1 2 3,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,1.0,0 1 2,4.0,192,3,True,public_description_reconstruction,True,012
+real_b01_p01_m101,5 4 7 6 1 0 3 2,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,1.0,0 1 2,5.0,192,3,True,public_description_reconstruction,True,012
+real_b01_p01_m110,6 7 4 5 2 3 0 1,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,1.0,0 1 2,6.0,192,3,True,public_description_reconstruction,True,012
+real_b01_p01_m111,7 6 5 4 3 2 1 0,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,1.0,0 1 2,7.0,192,3,True,public_description_reconstruction,True,012
+real_b01_p02_m000,0 2 1 3 4 6 5 7,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,1.0,0 2 1,0.0,8,3,True,public_description_reconstruction,True,021
+real_b01_p02_m001,1 3 0 2 5 7 4 6,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,1.0,0 2 1,1.0,192,3,True,public_description_reconstruction,True,021
+real_b01_p02_m010,2 0 3 1 6 4 7 5,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,1.0,0 2 1,2.0,192,3,True,public_description_reconstruction,True,021
+real_b01_p02_m011,3 1 2 0 7 5 6 4,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,1.0,0 2 1,3.0,192,3,True,public_description_reconstruction,True,021
+real_b01_p02_m100,4 6 5 7 0 2 1 3,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,1.0,0 2 1,4.0,192,3,True,public_description_reconstruction,True,021
+real_b01_p02_m101,5 7 4 6 1 3 0 2,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,1.0,0 2 1,5.0,192,3,True,public_description_reconstruction,True,021
+real_b01_p02_m110,6 4 7 5 2 0 3 1,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,1.0,0 2 1,6.0,192,3,True,public_description_reconstruction,True,021
+real_b01_p02_m111,7 5 6 4 3 1 2 0,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,1.0,0 2 1,7.0,192,3,True,public_description_reconstruction,True,021
+real_b01_p03_m000,0 1 4 5 2 3 6 7,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,1.0,1 0 2,0.0,8,3,True,public_description_reconstruction,True,102
+real_b01_p03_m001,1 0 5 4 3 2 7 6,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,1.0,1 0 2,1.0,192,3,True,public_description_reconstruction,True,102
+real_b01_p03_m010,2 3 6 7 0 1 4 5,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,1.0,1 0 2,2.0,192,3,True,public_description_reconstruction,True,102
+real_b01_p03_m011,3 2 7 6 1 0 5 4,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,1.0,1 0 2,3.0,192,3,True,public_description_reconstruction,True,102
+real_b01_p03_m100,4 5 0 1 6 7 2 3,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,1.0,1 0 2,4.0,192,3,True,public_description_reconstruction,True,102
+real_b01_p03_m101,5 4 1 0 7 6 3 2,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,1.0,1 0 2,5.0,192,3,True,public_description_reconstruction,True,102
+real_b01_p03_m110,6 7 2 3 4 5 0 1,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,1.0,1 0 2,6.0,192,3,True,public_description_reconstruction,True,102
+real_b01_p03_m111,7 6 3 2 5 4 1 0,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,1.0,1 0 2,7.0,192,3,True,public_description_reconstruction,True,102
+real_b01_p04_m000,0 2 4 6 1 3 5 7,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,1.0,1 2 0,0.0,8,3,True,public_description_reconstruction,True,120
+real_b01_p04_m001,1 3 5 7 0 2 4 6,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,1.0,1 2 0,1.0,384,3,True,public_description_reconstruction,True,120
+real_b01_p04_m010,2 0 6 4 3 1 7 5,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,1.0,1 2 0,2.0,384,3,True,public_description_reconstruction,True,120
+real_b01_p04_m011,3 1 7 5 2 0 6 4,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,1.0,1 2 0,3.0,384,3,True,public_description_reconstruction,True,120
+real_b01_p04_m100,4 6 0 2 5 7 1 3,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,1.0,1 2 0,4.0,384,3,True,public_description_reconstruction,True,120
+real_b01_p04_m101,5 7 1 3 4 6 0 2,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,1.0,1 2 0,5.0,384,3,True,public_description_reconstruction,True,120
+real_b01_p04_m110,6 4 2 0 7 5 3 1,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,1.0,1 2 0,6.0,384,3,True,public_description_reconstruction,True,120
+real_b01_p04_m111,7 5 3 1 6 4 2 0,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,1.0,1 2 0,7.0,384,3,True,public_description_reconstruction,True,120
+real_b01_p05_m000,0 4 1 5 2 6 3 7,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,1.0,2 0 1,0.0,8,3,True,public_description_reconstruction,True,201
+real_b01_p05_m001,1 5 0 4 3 7 2 6,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,1.0,2 0 1,1.0,384,3,True,public_description_reconstruction,True,201
+real_b01_p05_m010,2 6 3 7 0 4 1 5,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,1.0,2 0 1,2.0,384,3,True,public_description_reconstruction,True,201
+real_b01_p05_m011,3 7 2 6 1 5 0 4,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,1.0,2 0 1,3.0,384,3,True,public_description_reconstruction,True,201
+real_b01_p05_m100,4 0 5 1 6 2 7 3,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,1.0,2 0 1,4.0,384,3,True,public_description_reconstruction,True,201
+real_b01_p05_m101,5 1 4 0 7 3 6 2,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,1.0,2 0 1,5.0,384,3,True,public_description_reconstruction,True,201
+real_b01_p05_m110,6 2 7 3 4 0 5 1,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,1.0,2 0 1,6.0,384,3,True,public_description_reconstruction,True,201
+real_b01_p05_m111,7 3 6 2 5 1 4 0,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,1.0,2 0 1,7.0,384,3,True,public_description_reconstruction,True,201
+real_b01_p06_m000,0 4 2 6 1 5 3 7,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,1.0,2 1 0,0.0,8,3,True,public_description_reconstruction,True,210
+real_b01_p06_m001,1 5 3 7 0 4 2 6,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,1.0,2 1 0,1.0,384,3,True,public_description_reconstruction,True,210
+real_b01_p06_m010,2 6 0 4 3 7 1 5,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,1.0,2 1 0,2.0,384,3,True,public_description_reconstruction,True,210
+real_b01_p06_m011,3 7 1 5 2 6 0 4,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,1.0,2 1 0,3.0,384,3,True,public_description_reconstruction,True,210
+real_b01_p06_m100,4 0 6 2 5 1 7 3,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,1.0,2 1 0,4.0,384,3,True,public_description_reconstruction,True,210
+real_b01_p06_m101,5 1 7 3 4 0 6 2,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,1.0,2 1 0,5.0,384,3,True,public_description_reconstruction,True,210
+real_b01_p06_m110,6 2 4 0 7 3 5 1,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,1.0,2 1 0,6.0,384,3,True,public_description_reconstruction,True,210
+real_b01_p06_m111,7 3 5 1 6 2 4 0,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,1.0,2 1 0,7.0,384,3,True,public_description_reconstruction,True,210
+real_b02_p01_m000,0 1 2 3 5 4 7 6,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,2.0,0 1 2,0.0,8,3,True,public_description_reconstruction,True,012
+real_b02_p01_m001,1 0 3 2 4 5 6 7,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,2.0,0 1 2,1.0,192,3,True,public_description_reconstruction,True,012
+real_b02_p01_m010,2 3 0 1 7 6 5 4,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,2.0,0 1 2,2.0,192,3,True,public_description_reconstruction,True,012
+real_b02_p01_m011,3 2 1 0 6 7 4 5,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,2.0,0 1 2,3.0,192,3,True,public_description_reconstruction,True,012
+real_b02_p01_m100,4 5 6 7 1 0 3 2,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,2.0,0 1 2,4.0,192,3,True,public_description_reconstruction,True,012
+real_b02_p01_m101,5 4 7 6 0 1 2 3,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,2.0,0 1 2,5.0,192,3,True,public_description_reconstruction,True,012
+real_b02_p01_m110,6 7 4 5 3 2 1 0,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,2.0,0 1 2,6.0,192,3,True,public_description_reconstruction,True,012
+real_b02_p01_m111,7 6 5 4 2 3 0 1,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,2.0,0 1 2,7.0,192,3,True,public_description_reconstruction,True,012
+real_b02_p02_m000,0 2 1 3 6 4 7 5,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,2.0,0 2 1,0.0,8,3,True,public_description_reconstruction,True,021
+real_b02_p02_m001,1 3 0 2 7 5 6 4,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,2.0,0 2 1,1.0,192,3,True,public_description_reconstruction,True,021
+real_b02_p02_m010,2 0 3 1 4 6 5 7,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,2.0,0 2 1,2.0,192,3,True,public_description_reconstruction,True,021
+real_b02_p02_m011,3 1 2 0 5 7 4 6,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,2.0,0 2 1,3.0,192,3,True,public_description_reconstruction,True,021
+real_b02_p02_m100,4 6 5 7 2 0 3 1,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,2.0,0 2 1,4.0,192,3,True,public_description_reconstruction,True,021
+real_b02_p02_m101,5 7 4 6 3 1 2 0,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,2.0,0 2 1,5.0,192,3,True,public_description_reconstruction,True,021
+real_b02_p02_m110,6 4 7 5 0 2 1 3,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,2.0,0 2 1,6.0,192,3,True,public_description_reconstruction,True,021
+real_b02_p02_m111,7 5 6 4 1 3 0 2,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,2.0,0 2 1,7.0,192,3,True,public_description_reconstruction,True,021
+real_b02_p03_m000,0 1 4 5 3 2 7 6,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,2.0,1 0 2,0.0,8,3,True,public_description_reconstruction,True,102
+real_b02_p03_m001,1 0 5 4 2 3 6 7,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,2.0,1 0 2,1.0,192,3,True,public_description_reconstruction,True,102
+real_b02_p03_m010,2 3 6 7 1 0 5 4,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,2.0,1 0 2,2.0,192,3,True,public_description_reconstruction,True,102
+real_b02_p03_m011,3 2 7 6 0 1 4 5,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,2.0,1 0 2,3.0,192,3,True,public_description_reconstruction,True,102
+real_b02_p03_m100,4 5 0 1 7 6 3 2,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,2.0,1 0 2,4.0,192,3,True,public_description_reconstruction,True,102
+real_b02_p03_m101,5 4 1 0 6 7 2 3,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,2.0,1 0 2,5.0,192,3,True,public_description_reconstruction,True,102
+real_b02_p03_m110,6 7 2 3 5 4 1 0,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,2.0,1 0 2,6.0,192,3,True,public_description_reconstruction,True,102
+real_b02_p03_m111,7 6 3 2 4 5 0 1,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,2.0,1 0 2,7.0,192,3,True,public_description_reconstruction,True,102
+real_b02_p04_m000,0 2 4 6 3 1 7 5,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,2.0,1 2 0,0.0,8,3,True,public_description_reconstruction,True,120
+real_b02_p04_m001,1 3 5 7 2 0 6 4,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,2.0,1 2 0,1.0,384,3,True,public_description_reconstruction,True,120
+real_b02_p04_m010,2 0 6 4 1 3 5 7,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,2.0,1 2 0,2.0,384,3,True,public_description_reconstruction,True,120
+real_b02_p04_m011,3 1 7 5 0 2 4 6,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,2.0,1 2 0,3.0,384,3,True,public_description_reconstruction,True,120
+real_b02_p04_m100,4 6 0 2 7 5 3 1,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,2.0,1 2 0,4.0,384,3,True,public_description_reconstruction,True,120
+real_b02_p04_m101,5 7 1 3 6 4 2 0,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,2.0,1 2 0,5.0,384,3,True,public_description_reconstruction,True,120
+real_b02_p04_m110,6 4 2 0 5 7 1 3,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,2.0,1 2 0,6.0,384,3,True,public_description_reconstruction,True,120
+real_b02_p04_m111,7 5 3 1 4 6 0 2,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,2.0,1 2 0,7.0,384,3,True,public_description_reconstruction,True,120
+real_b02_p05_m000,0 4 1 5 6 2 7 3,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,2.0,2 0 1,0.0,8,3,True,public_description_reconstruction,True,201
+real_b02_p05_m001,1 5 0 4 7 3 6 2,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,2.0,2 0 1,1.0,384,3,True,public_description_reconstruction,True,201
+real_b02_p05_m010,2 6 3 7 4 0 5 1,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,2.0,2 0 1,2.0,384,3,True,public_description_reconstruction,True,201
+real_b02_p05_m011,3 7 2 6 5 1 4 0,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,2.0,2 0 1,3.0,384,3,True,public_description_reconstruction,True,201
+real_b02_p05_m100,4 0 5 1 2 6 3 7,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,2.0,2 0 1,4.0,384,3,True,public_description_reconstruction,True,201
+real_b02_p05_m101,5 1 4 0 3 7 2 6,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,2.0,2 0 1,5.0,384,3,True,public_description_reconstruction,True,201
+real_b02_p05_m110,6 2 7 3 0 4 1 5,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,2.0,2 0 1,6.0,384,3,True,public_description_reconstruction,True,201
+real_b02_p05_m111,7 3 6 2 1 5 0 4,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,2.0,2 0 1,7.0,384,3,True,public_description_reconstruction,True,201
+real_b02_p06_m000,0 4 2 6 5 1 7 3,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,2.0,2 1 0,0.0,8,3,True,public_description_reconstruction,True,210
+real_b02_p06_m001,1 5 3 7 4 0 6 2,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,2.0,2 1 0,1.0,384,3,True,public_description_reconstruction,True,210
+real_b02_p06_m010,2 6 0 4 7 3 5 1,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,2.0,2 1 0,2.0,384,3,True,public_description_reconstruction,True,210
+real_b02_p06_m011,3 7 1 5 6 2 4 0,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,2.0,2 1 0,3.0,384,3,True,public_description_reconstruction,True,210
+real_b02_p06_m100,4 0 6 2 1 5 3 7,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,2.0,2 1 0,4.0,384,3,True,public_description_reconstruction,True,210
+real_b02_p06_m101,5 1 7 3 0 4 2 6,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,2.0,2 1 0,5.0,384,3,True,public_description_reconstruction,True,210
+real_b02_p06_m110,6 2 4 0 3 7 1 5,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,2.0,2 1 0,6.0,384,3,True,public_description_reconstruction,True,210
+real_b02_p06_m111,7 3 5 1 2 6 0 4,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,2.0,2 1 0,7.0,384,3,True,public_description_reconstruction,True,210
+real_b03_p01_m000,0 1 6 7 4 5 2 3,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,3.0,0 1 2,0.0,8,3,True,public_description_reconstruction,True,012
+real_b03_p01_m001,1 0 7 6 5 4 3 2,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,3.0,0 1 2,1.0,192,3,True,public_description_reconstruction,True,012
+real_b03_p01_m010,2 3 4 5 6 7 0 1,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,3.0,0 1 2,2.0,192,3,True,public_description_reconstruction,True,012
+real_b03_p01_m011,3 2 5 4 7 6 1 0,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,3.0,0 1 2,3.0,192,3,True,public_description_reconstruction,True,012
+real_b03_p01_m100,4 5 2 3 0 1 6 7,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,3.0,0 1 2,4.0,192,3,True,public_description_reconstruction,True,012
+real_b03_p01_m101,5 4 3 2 1 0 7 6,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,3.0,0 1 2,5.0,192,3,True,public_description_reconstruction,True,012
+real_b03_p01_m110,6 7 0 1 2 3 4 5,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,3.0,0 1 2,6.0,192,3,True,public_description_reconstruction,True,012
+real_b03_p01_m111,7 6 1 0 3 2 5 4,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,3.0,0 1 2,7.0,192,3,True,public_description_reconstruction,True,012
+real_b03_p02_m000,0 2 5 7 4 6 1 3,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,3.0,0 2 1,0.0,8,3,True,public_description_reconstruction,True,021
+real_b03_p02_m001,1 3 4 6 5 7 0 2,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,3.0,0 2 1,1.0,192,3,True,public_description_reconstruction,True,021
+real_b03_p02_m010,2 0 7 5 6 4 3 1,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,3.0,0 2 1,2.0,192,3,True,public_description_reconstruction,True,021
+real_b03_p02_m011,3 1 6 4 7 5 2 0,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,3.0,0 2 1,3.0,192,3,True,public_description_reconstruction,True,021
+real_b03_p02_m100,4 6 1 3 0 2 5 7,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,3.0,0 2 1,4.0,192,3,True,public_description_reconstruction,True,021
+real_b03_p02_m101,5 7 0 2 1 3 4 6,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,3.0,0 2 1,5.0,192,3,True,public_description_reconstruction,True,021
+real_b03_p02_m110,6 4 3 1 2 0 7 5,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,3.0,0 2 1,6.0,192,3,True,public_description_reconstruction,True,021
+real_b03_p02_m111,7 5 2 0 3 1 6 4,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,3.0,0 2 1,7.0,192,3,True,public_description_reconstruction,True,021
+real_b03_p03_m000,0 1 6 7 2 3 4 5,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,3.0,1 0 2,0.0,8,3,True,public_description_reconstruction,True,102
+real_b03_p03_m001,1 0 7 6 3 2 5 4,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,3.0,1 0 2,1.0,192,3,True,public_description_reconstruction,True,102
+real_b03_p03_m010,2 3 4 5 0 1 6 7,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,3.0,1 0 2,2.0,192,3,True,public_description_reconstruction,True,102
+real_b03_p03_m011,3 2 5 4 1 0 7 6,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,3.0,1 0 2,3.0,192,3,True,public_description_reconstruction,True,102
+real_b03_p03_m100,4 5 2 3 6 7 0 1,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,3.0,1 0 2,4.0,192,3,True,public_description_reconstruction,True,102
+real_b03_p03_m101,5 4 3 2 7 6 1 0,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,3.0,1 0 2,5.0,192,3,True,public_description_reconstruction,True,102
+real_b03_p03_m110,6 7 0 1 4 5 2 3,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,3.0,1 0 2,6.0,192,3,True,public_description_reconstruction,True,102
+real_b03_p03_m111,7 6 1 0 5 4 3 2,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,3.0,1 0 2,7.0,192,3,True,public_description_reconstruction,True,102
+real_b03_p04_m000,0 2 5 7 1 3 4 6,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,3.0,1 2 0,0.0,8,3,True,public_description_reconstruction,True,120
+real_b03_p04_m001,1 3 4 6 0 2 5 7,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,3.0,1 2 0,1.0,384,3,True,public_description_reconstruction,True,120
+real_b03_p04_m010,2 0 7 5 3 1 6 4,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,3.0,1 2 0,2.0,384,3,True,public_description_reconstruction,True,120
+real_b03_p04_m011,3 1 6 4 2 0 7 5,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,3.0,1 2 0,3.0,384,3,True,public_description_reconstruction,True,120
+real_b03_p04_m100,4 6 1 3 5 7 0 2,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,3.0,1 2 0,4.0,384,3,True,public_description_reconstruction,True,120
+real_b03_p04_m101,5 7 0 2 4 6 1 3,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,3.0,1 2 0,5.0,384,3,True,public_description_reconstruction,True,120
+real_b03_p04_m110,6 4 3 1 7 5 2 0,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,3.0,1 2 0,6.0,384,3,True,public_description_reconstruction,True,120
+real_b03_p04_m111,7 5 2 0 6 4 3 1,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,3.0,1 2 0,7.0,384,3,True,public_description_reconstruction,True,120
+real_b03_p05_m000,0 4 3 7 2 6 1 5,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,3.0,2 0 1,0.0,8,3,True,public_description_reconstruction,True,201
+real_b03_p05_m001,1 5 2 6 3 7 0 4,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,3.0,2 0 1,1.0,384,3,True,public_description_reconstruction,True,201
+real_b03_p05_m010,2 6 1 5 0 4 3 7,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,3.0,2 0 1,2.0,384,3,True,public_description_reconstruction,True,201
+real_b03_p05_m011,3 7 0 4 1 5 2 6,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,3.0,2 0 1,3.0,384,3,True,public_description_reconstruction,True,201
+real_b03_p05_m100,4 0 7 3 6 2 5 1,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,3.0,2 0 1,4.0,384,3,True,public_description_reconstruction,True,201
+real_b03_p05_m101,5 1 6 2 7 3 4 0,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,3.0,2 0 1,5.0,384,3,True,public_description_reconstruction,True,201
+real_b03_p05_m110,6 2 5 1 4 0 7 3,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,3.0,2 0 1,6.0,384,3,True,public_description_reconstruction,True,201
+real_b03_p05_m111,7 3 4 0 5 1 6 2,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,3.0,2 0 1,7.0,384,3,True,public_description_reconstruction,True,201
+real_b03_p06_m000,0 4 3 7 1 5 2 6,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,3.0,2 1 0,0.0,8,3,True,public_description_reconstruction,True,210
+real_b03_p06_m001,1 5 2 6 0 4 3 7,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,3.0,2 1 0,1.0,384,3,True,public_description_reconstruction,True,210
+real_b03_p06_m010,2 6 1 5 3 7 0 4,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,3.0,2 1 0,2.0,384,3,True,public_description_reconstruction,True,210
+real_b03_p06_m011,3 7 0 4 2 6 1 5,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,3.0,2 1 0,3.0,384,3,True,public_description_reconstruction,True,210
+real_b03_p06_m100,4 0 7 3 5 1 6 2,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,3.0,2 1 0,4.0,384,3,True,public_description_reconstruction,True,210
+real_b03_p06_m101,5 1 6 2 4 0 7 3,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,3.0,2 1 0,5.0,384,3,True,public_description_reconstruction,True,210
+real_b03_p06_m110,6 2 5 1 7 3 4 0,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,3.0,2 1 0,6.0,384,3,True,public_description_reconstruction,True,210
+real_b03_p06_m111,7 3 4 0 6 2 5 1,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,3.0,2 1 0,7.0,384,3,True,public_description_reconstruction,True,210
+real_b04_p01_m000,0 3 2 1 4 7 6 5,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,4.0,0 1 2,0.0,8,3,True,public_description_reconstruction,True,012
+real_b04_p01_m001,1 2 3 0 5 6 7 4,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,4.0,0 1 2,1.0,192,3,True,public_description_reconstruction,True,012
+real_b04_p01_m010,2 1 0 3 6 5 4 7,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,4.0,0 1 2,2.0,192,3,True,public_description_reconstruction,True,012
+real_b04_p01_m011,3 0 1 2 7 4 5 6,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,4.0,0 1 2,3.0,192,3,True,public_description_reconstruction,True,012
+real_b04_p01_m100,4 7 6 5 0 3 2 1,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,4.0,0 1 2,4.0,192,3,True,public_description_reconstruction,True,012
+real_b04_p01_m101,5 6 7 4 1 2 3 0,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,4.0,0 1 2,5.0,192,3,True,public_description_reconstruction,True,012
+real_b04_p01_m110,6 5 4 7 2 1 0 3,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,4.0,0 1 2,6.0,192,3,True,public_description_reconstruction,True,012
+real_b04_p01_m111,7 4 5 6 3 0 1 2,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,4.0,0 1 2,7.0,192,3,True,public_description_reconstruction,True,012
+real_b04_p02_m000,0 3 1 2 4 7 5 6,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,4.0,0 2 1,0.0,8,3,True,public_description_reconstruction,True,021
+real_b04_p02_m001,1 2 0 3 5 6 4 7,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,4.0,0 2 1,1.0,192,3,True,public_description_reconstruction,True,021
+real_b04_p02_m010,2 1 3 0 6 5 7 4,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,4.0,0 2 1,2.0,192,3,True,public_description_reconstruction,True,021
+real_b04_p02_m011,3 0 2 1 7 4 6 5,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,4.0,0 2 1,3.0,192,3,True,public_description_reconstruction,True,021
+real_b04_p02_m100,4 7 5 6 0 3 1 2,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,4.0,0 2 1,4.0,192,3,True,public_description_reconstruction,True,021
+real_b04_p02_m101,5 6 4 7 1 2 0 3,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,4.0,0 2 1,5.0,192,3,True,public_description_reconstruction,True,021
+real_b04_p02_m110,6 5 7 4 2 1 3 0,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,4.0,0 2 1,6.0,192,3,True,public_description_reconstruction,True,021
+real_b04_p02_m111,7 4 6 5 3 0 2 1,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,4.0,0 2 1,7.0,192,3,True,public_description_reconstruction,True,021
+real_b04_p03_m000,0 5 4 1 2 7 6 3,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,4.0,1 0 2,0.0,8,3,True,public_description_reconstruction,True,102
+real_b04_p03_m001,1 4 5 0 3 6 7 2,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,4.0,1 0 2,1.0,192,3,True,public_description_reconstruction,True,102
+real_b04_p03_m010,2 7 6 3 0 5 4 1,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,4.0,1 0 2,2.0,192,3,True,public_description_reconstruction,True,102
+real_b04_p03_m011,3 6 7 2 1 4 5 0,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,4.0,1 0 2,3.0,192,3,True,public_description_reconstruction,True,102
+real_b04_p03_m100,4 1 0 5 6 3 2 7,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,4.0,1 0 2,4.0,192,3,True,public_description_reconstruction,True,102
+real_b04_p03_m101,5 0 1 4 7 2 3 6,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,4.0,1 0 2,5.0,192,3,True,public_description_reconstruction,True,102
+real_b04_p03_m110,6 3 2 7 4 1 0 5,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,4.0,1 0 2,6.0,192,3,True,public_description_reconstruction,True,102
+real_b04_p03_m111,7 2 3 6 5 0 1 4,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,4.0,1 0 2,7.0,192,3,True,public_description_reconstruction,True,102
+real_b04_p04_m000,0 6 4 2 1 7 5 3,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,4.0,1 2 0,0.0,8,3,True,public_description_reconstruction,True,120
+real_b04_p04_m001,1 7 5 3 0 6 4 2,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,4.0,1 2 0,1.0,384,3,True,public_description_reconstruction,True,120
+real_b04_p04_m010,2 4 6 0 3 5 7 1,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,4.0,1 2 0,2.0,384,3,True,public_description_reconstruction,True,120
+real_b04_p04_m011,3 5 7 1 2 4 6 0,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,4.0,1 2 0,3.0,384,3,True,public_description_reconstruction,True,120
+real_b04_p04_m100,4 2 0 6 5 3 1 7,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,4.0,1 2 0,4.0,384,3,True,public_description_reconstruction,True,120
+real_b04_p04_m101,5 3 1 7 4 2 0 6,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,4.0,1 2 0,5.0,384,3,True,public_description_reconstruction,True,120
+real_b04_p04_m110,6 0 2 4 7 1 3 5,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,4.0,1 2 0,6.0,384,3,True,public_description_reconstruction,True,120
+real_b04_p04_m111,7 1 3 5 6 0 2 4,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,4.0,1 2 0,7.0,384,3,True,public_description_reconstruction,True,120
+real_b04_p05_m000,0 5 1 4 2 7 3 6,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,4.0,2 0 1,0.0,8,3,True,public_description_reconstruction,True,201
+real_b04_p05_m001,1 4 0 5 3 6 2 7,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,4.0,2 0 1,1.0,384,3,True,public_description_reconstruction,True,201
+real_b04_p05_m010,2 7 3 6 0 5 1 4,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,4.0,2 0 1,2.0,384,3,True,public_description_reconstruction,True,201
+real_b04_p05_m011,3 6 2 7 1 4 0 5,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,4.0,2 0 1,3.0,384,3,True,public_description_reconstruction,True,201
+real_b04_p05_m100,4 1 5 0 6 3 7 2,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,4.0,2 0 1,4.0,384,3,True,public_description_reconstruction,True,201
+real_b04_p05_m101,5 0 4 1 7 2 6 3,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,4.0,2 0 1,5.0,384,3,True,public_description_reconstruction,True,201
+real_b04_p05_m110,6 3 7 2 4 1 5 0,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,4.0,2 0 1,6.0,384,3,True,public_description_reconstruction,True,201
+real_b04_p05_m111,7 2 6 3 5 0 4 1,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,4.0,2 0 1,7.0,384,3,True,public_description_reconstruction,True,201
+real_b04_p06_m000,0 6 2 4 1 7 3 5,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,4.0,2 1 0,0.0,8,3,True,public_description_reconstruction,True,210
+real_b04_p06_m001,1 7 3 5 0 6 2 4,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,4.0,2 1 0,1.0,384,3,True,public_description_reconstruction,True,210
+real_b04_p06_m010,2 4 0 6 3 5 1 7,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,4.0,2 1 0,2.0,384,3,True,public_description_reconstruction,True,210
+real_b04_p06_m011,3 5 1 7 2 4 0 6,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,4.0,2 1 0,3.0,384,3,True,public_description_reconstruction,True,210
+real_b04_p06_m100,4 2 6 0 5 3 7 1,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,4.0,2 1 0,4.0,384,3,True,public_description_reconstruction,True,210
+real_b04_p06_m101,5 3 7 1 4 2 6 0,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,4.0,2 1 0,5.0,384,3,True,public_description_reconstruction,True,210
+real_b04_p06_m110,6 0 4 2 7 1 5 3,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,4.0,2 1 0,6.0,384,3,True,public_description_reconstruction,True,210
+real_b04_p06_m111,7 1 5 3 6 0 4 2,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,4.0,2 1 0,7.0,384,3,True,public_description_reconstruction,True,210
+real_b05_p01_m000,0 1 2 3 4 6 5 7,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,5.0,0 1 2,0.0,8,3,True,public_description_reconstruction,True,012
+real_b05_p01_m001,1 0 3 2 5 7 4 6,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,5.0,0 1 2,1.0,192,3,True,public_description_reconstruction,True,012
+real_b05_p01_m010,2 3 0 1 6 4 7 5,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,5.0,0 1 2,2.0,192,3,True,public_description_reconstruction,True,012
+real_b05_p01_m011,3 2 1 0 7 5 6 4,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,5.0,0 1 2,3.0,192,3,True,public_description_reconstruction,True,012
+real_b05_p01_m100,4 5 6 7 0 2 1 3,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,5.0,0 1 2,4.0,192,3,True,public_description_reconstruction,True,012
+real_b05_p01_m101,5 4 7 6 1 3 0 2,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,5.0,0 1 2,5.0,192,3,True,public_description_reconstruction,True,012
+real_b05_p01_m110,6 7 4 5 2 0 3 1,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,5.0,0 1 2,6.0,192,3,True,public_description_reconstruction,True,012
+real_b05_p01_m111,7 6 5 4 3 1 2 0,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,5.0,0 1 2,7.0,192,3,True,public_description_reconstruction,True,012
+real_b05_p02_m000,0 2 1 3 4 5 6 7,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,5.0,0 2 1,0.0,8,3,True,public_description_reconstruction,True,021
+real_b05_p02_m001,1 3 0 2 5 4 7 6,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,5.0,0 2 1,1.0,192,3,True,public_description_reconstruction,True,021
+real_b05_p02_m010,2 0 3 1 6 7 4 5,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,5.0,0 2 1,2.0,192,3,True,public_description_reconstruction,True,021
+real_b05_p02_m011,3 1 2 0 7 6 5 4,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,5.0,0 2 1,3.0,192,3,True,public_description_reconstruction,True,021
+real_b05_p02_m100,4 6 5 7 0 1 2 3,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,5.0,0 2 1,4.0,192,3,True,public_description_reconstruction,True,021
+real_b05_p02_m101,5 7 4 6 1 0 3 2,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,5.0,0 2 1,5.0,192,3,True,public_description_reconstruction,True,021
+real_b05_p02_m110,6 4 7 5 2 3 0 1,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,5.0,0 2 1,6.0,192,3,True,public_description_reconstruction,True,021
+real_b05_p02_m111,7 5 6 4 3 2 1 0,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,5.0,0 2 1,7.0,192,3,True,public_description_reconstruction,True,021
+real_b05_p03_m000,0 1 4 5 2 6 3 7,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,5.0,1 0 2,0.0,8,3,True,public_description_reconstruction,True,102
+real_b05_p03_m001,1 0 5 4 3 7 2 6,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,5.0,1 0 2,1.0,192,3,True,public_description_reconstruction,True,102
+real_b05_p03_m010,2 3 6 7 0 4 1 5,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,5.0,1 0 2,2.0,192,3,True,public_description_reconstruction,True,102
+real_b05_p03_m011,3 2 7 6 1 5 0 4,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,5.0,1 0 2,3.0,192,3,True,public_description_reconstruction,True,102
+real_b05_p03_m100,4 5 0 1 6 2 7 3,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,5.0,1 0 2,4.0,192,3,True,public_description_reconstruction,True,102
+real_b05_p03_m101,5 4 1 0 7 3 6 2,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,5.0,1 0 2,5.0,192,3,True,public_description_reconstruction,True,102
+real_b05_p03_m110,6 7 2 3 4 0 5 1,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,5.0,1 0 2,6.0,192,3,True,public_description_reconstruction,True,102
+real_b05_p03_m111,7 6 3 2 5 1 4 0,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,5.0,1 0 2,7.0,192,3,True,public_description_reconstruction,True,102
+real_b05_p04_m000,0 2 4 6 1 5 3 7,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,5.0,1 2 0,0.0,8,3,True,public_description_reconstruction,True,120
+real_b05_p04_m001,1 3 5 7 0 4 2 6,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,5.0,1 2 0,1.0,384,3,True,public_description_reconstruction,True,120
+real_b05_p04_m010,2 0 6 4 3 7 1 5,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,5.0,1 2 0,2.0,384,3,True,public_description_reconstruction,True,120
+real_b05_p04_m011,3 1 7 5 2 6 0 4,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,5.0,1 2 0,3.0,384,3,True,public_description_reconstruction,True,120
+real_b05_p04_m100,4 6 0 2 5 1 7 3,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,5.0,1 2 0,4.0,384,3,True,public_description_reconstruction,True,120
+real_b05_p04_m101,5 7 1 3 4 0 6 2,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,5.0,1 2 0,5.0,384,3,True,public_description_reconstruction,True,120
+real_b05_p04_m110,6 4 2 0 7 3 5 1,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,5.0,1 2 0,6.0,384,3,True,public_description_reconstruction,True,120
+real_b05_p04_m111,7 5 3 1 6 2 4 0,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,5.0,1 2 0,7.0,384,3,True,public_description_reconstruction,True,120
+real_b05_p05_m000,0 4 1 5 2 3 6 7,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,5.0,2 0 1,0.0,8,3,True,public_description_reconstruction,True,201
+real_b05_p05_m001,1 5 0 4 3 2 7 6,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,5.0,2 0 1,1.0,384,3,True,public_description_reconstruction,True,201
+real_b05_p05_m010,2 6 3 7 0 1 4 5,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,5.0,2 0 1,2.0,384,3,True,public_description_reconstruction,True,201
+real_b05_p05_m011,3 7 2 6 1 0 5 4,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,5.0,2 0 1,3.0,384,3,True,public_description_reconstruction,True,201
+real_b05_p05_m100,4 0 5 1 6 7 2 3,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,5.0,2 0 1,4.0,384,3,True,public_description_reconstruction,True,201
+real_b05_p05_m101,5 1 4 0 7 6 3 2,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,5.0,2 0 1,5.0,384,3,True,public_description_reconstruction,True,201
+real_b05_p05_m110,6 2 7 3 4 5 0 1,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,5.0,2 0 1,6.0,384,3,True,public_description_reconstruction,True,201
+real_b05_p05_m111,7 3 6 2 5 4 1 0,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,5.0,2 0 1,7.0,384,3,True,public_description_reconstruction,True,201
+real_b05_p06_m000,0 4 2 6 1 3 5 7,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,5.0,2 1 0,0.0,8,3,True,public_description_reconstruction,True,210
+real_b05_p06_m001,1 5 3 7 0 2 4 6,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,5.0,2 1 0,1.0,384,3,True,public_description_reconstruction,True,210
+real_b05_p06_m010,2 6 0 4 3 1 7 5,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,5.0,2 1 0,2.0,384,3,True,public_description_reconstruction,True,210
+real_b05_p06_m011,3 7 1 5 2 0 6 4,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,5.0,2 1 0,3.0,384,3,True,public_description_reconstruction,True,210
+real_b05_p06_m100,4 0 6 2 5 7 1 3,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,5.0,2 1 0,4.0,384,3,True,public_description_reconstruction,True,210
+real_b05_p06_m101,5 1 7 3 4 6 0 2,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,5.0,2 1 0,5.0,384,3,True,public_description_reconstruction,True,210
+real_b05_p06_m110,6 2 4 0 7 5 3 1,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,5.0,2 1 0,6.0,384,3,True,public_description_reconstruction,True,210
+real_b05_p06_m111,7 3 5 1 6 4 2 0,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,5.0,2 1 0,7.0,384,3,True,public_description_reconstruction,True,210
+real_b06_p01_m000,0 1 2 6 4 5 3 7,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,6.0,0 1 2,0.0,8,3,True,public_description_reconstruction,True,012
+real_b06_p01_m001,1 0 3 7 5 4 2 6,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,6.0,0 1 2,1.0,192,3,True,public_description_reconstruction,True,012
+real_b06_p01_m010,2 3 0 4 6 7 1 5,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,6.0,0 1 2,2.0,192,3,True,public_description_reconstruction,True,012
+real_b06_p01_m011,3 2 1 5 7 6 0 4,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,6.0,0 1 2,3.0,192,3,True,public_description_reconstruction,True,012
+real_b06_p01_m100,4 5 6 2 0 1 7 3,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,6.0,0 1 2,4.0,192,3,True,public_description_reconstruction,True,012
+real_b06_p01_m101,5 4 7 3 1 0 6 2,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,6.0,0 1 2,5.0,192,3,True,public_description_reconstruction,True,012
+real_b06_p01_m110,6 7 4 0 2 3 5 1,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,6.0,0 1 2,6.0,192,3,True,public_description_reconstruction,True,012
+real_b06_p01_m111,7 6 5 1 3 2 4 0,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,6.0,0 1 2,7.0,192,3,True,public_description_reconstruction,True,012
+real_b06_p02_m000,0 2 1 5 4 6 3 7,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,6.0,0 2 1,0.0,8,3,True,public_description_reconstruction,True,021
+real_b06_p02_m001,1 3 0 4 5 7 2 6,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,6.0,0 2 1,1.0,192,3,True,public_description_reconstruction,True,021
+real_b06_p02_m010,2 0 3 7 6 4 1 5,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,6.0,0 2 1,2.0,192,3,True,public_description_reconstruction,True,021
+real_b06_p02_m011,3 1 2 6 7 5 0 4,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,6.0,0 2 1,3.0,192,3,True,public_description_reconstruction,True,021
+real_b06_p02_m100,4 6 5 1 0 2 7 3,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,6.0,0 2 1,4.0,192,3,True,public_description_reconstruction,True,021
+real_b06_p02_m101,5 7 4 0 1 3 6 2,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,6.0,0 2 1,5.0,192,3,True,public_description_reconstruction,True,021
+real_b06_p02_m110,6 4 7 3 2 0 5 1,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,6.0,0 2 1,6.0,192,3,True,public_description_reconstruction,True,021
+real_b06_p02_m111,7 5 6 2 3 1 4 0,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,6.0,0 2 1,7.0,192,3,True,public_description_reconstruction,True,021
+real_b06_p03_m000,0 1 4 6 2 3 5 7,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,6.0,1 0 2,0.0,8,3,True,public_description_reconstruction,True,102
+real_b06_p03_m001,1 0 5 7 3 2 4 6,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,6.0,1 0 2,1.0,192,3,True,public_description_reconstruction,True,102
+real_b06_p03_m010,2 3 6 4 0 1 7 5,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,6.0,1 0 2,2.0,192,3,True,public_description_reconstruction,True,102
+real_b06_p03_m011,3 2 7 5 1 0 6 4,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,6.0,1 0 2,3.0,192,3,True,public_description_reconstruction,True,102
+real_b06_p03_m100,4 5 0 2 6 7 1 3,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,6.0,1 0 2,4.0,192,3,True,public_description_reconstruction,True,102
+real_b06_p03_m101,5 4 1 3 7 6 0 2,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,6.0,1 0 2,5.0,192,3,True,public_description_reconstruction,True,102
+real_b06_p03_m110,6 7 2 0 4 5 3 1,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,6.0,1 0 2,6.0,192,3,True,public_description_reconstruction,True,102
+real_b06_p03_m111,7 6 3 1 5 4 2 0,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,6.0,1 0 2,7.0,192,3,True,public_description_reconstruction,True,102
+real_b06_p04_m000,0 2 4 5 1 3 6 7,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,6.0,1 2 0,0.0,8,3,True,public_description_reconstruction,True,120
+real_b06_p04_m001,1 3 5 4 0 2 7 6,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,6.0,1 2 0,1.0,384,3,True,public_description_reconstruction,True,120
+real_b06_p04_m010,2 0 6 7 3 1 4 5,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,6.0,1 2 0,2.0,384,3,True,public_description_reconstruction,True,120
+real_b06_p04_m011,3 1 7 6 2 0 5 4,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,6.0,1 2 0,3.0,384,3,True,public_description_reconstruction,True,120
+real_b06_p04_m100,4 6 0 1 5 7 2 3,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,6.0,1 2 0,4.0,384,3,True,public_description_reconstruction,True,120
+real_b06_p04_m101,5 7 1 0 4 6 3 2,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,6.0,1 2 0,5.0,384,3,True,public_description_reconstruction,True,120
+real_b06_p04_m110,6 4 2 3 7 5 0 1,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,6.0,1 2 0,6.0,384,3,True,public_description_reconstruction,True,120
+real_b06_p04_m111,7 5 3 2 6 4 1 0,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,6.0,1 2 0,7.0,384,3,True,public_description_reconstruction,True,120
+real_b06_p05_m000,0 4 1 3 2 6 5 7,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,6.0,2 0 1,0.0,8,3,True,public_description_reconstruction,True,201
+real_b06_p05_m001,1 5 0 2 3 7 4 6,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,6.0,2 0 1,1.0,384,3,True,public_description_reconstruction,True,201
+real_b06_p05_m010,2 6 3 1 0 4 7 5,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,6.0,2 0 1,2.0,384,3,True,public_description_reconstruction,True,201
+real_b06_p05_m011,3 7 2 0 1 5 6 4,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,6.0,2 0 1,3.0,384,3,True,public_description_reconstruction,True,201
+real_b06_p05_m100,4 0 5 7 6 2 1 3,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,6.0,2 0 1,4.0,384,3,True,public_description_reconstruction,True,201
+real_b06_p05_m101,5 1 4 6 7 3 0 2,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,6.0,2 0 1,5.0,384,3,True,public_description_reconstruction,True,201
+real_b06_p05_m110,6 2 7 5 4 0 3 1,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,6.0,2 0 1,6.0,384,3,True,public_description_reconstruction,True,201
+real_b06_p05_m111,7 3 6 4 5 1 2 0,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,6.0,2 0 1,7.0,384,3,True,public_description_reconstruction,True,201
+real_b06_p06_m000,0 4 2 3 1 5 6 7,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,6.0,2 1 0,0.0,8,3,True,public_description_reconstruction,True,210
+real_b06_p06_m001,1 5 3 2 0 4 7 6,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,6.0,2 1 0,1.0,384,3,True,public_description_reconstruction,True,210
+real_b06_p06_m010,2 6 0 1 3 7 4 5,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,6.0,2 1 0,2.0,384,3,True,public_description_reconstruction,True,210
+real_b06_p06_m011,3 7 1 0 2 6 5 4,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,6.0,2 1 0,3.0,384,3,True,public_description_reconstruction,True,210
+real_b06_p06_m100,4 0 6 7 5 1 2 3,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,6.0,2 1 0,4.0,384,3,True,public_description_reconstruction,True,210
+real_b06_p06_m101,5 1 7 6 4 0 3 2,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,6.0,2 1 0,5.0,384,3,True,public_description_reconstruction,True,210
+real_b06_p06_m110,6 2 4 5 7 3 0 1,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,6.0,2 1 0,6.0,384,3,True,public_description_reconstruction,True,210
+real_b06_p06_m111,7 3 5 4 6 2 1 0,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,6.0,2 1 0,7.0,384,3,True,public_description_reconstruction,True,210
+real_b07_p01_m000,0 1 2 5 4 3 6 7,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,7.0,0 1 2,0.0,8,3,True,public_description_reconstruction,True,012
+real_b07_p01_m001,1 0 3 4 5 2 7 6,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,7.0,0 1 2,1.0,192,3,True,public_description_reconstruction,True,012
+real_b07_p01_m010,2 3 0 7 6 1 4 5,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,7.0,0 1 2,2.0,192,3,True,public_description_reconstruction,True,012
+real_b07_p01_m011,3 2 1 6 7 0 5 4,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,7.0,0 1 2,3.0,192,3,True,public_description_reconstruction,True,012
+real_b07_p01_m100,4 5 6 1 0 7 2 3,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,7.0,0 1 2,4.0,192,3,True,public_description_reconstruction,True,012
+real_b07_p01_m101,5 4 7 0 1 6 3 2,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,7.0,0 1 2,5.0,192,3,True,public_description_reconstruction,True,012
+real_b07_p01_m110,6 7 4 3 2 5 0 1,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,7.0,0 1 2,6.0,192,3,True,public_description_reconstruction,True,012
+real_b07_p01_m111,7 6 5 2 3 4 1 0,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,7.0,0 1 2,7.0,192,3,True,public_description_reconstruction,True,012
+real_b07_p02_m000,0 2 1 6 4 3 5 7,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,7.0,0 2 1,0.0,8,3,True,public_description_reconstruction,True,021
+real_b07_p02_m001,1 3 0 7 5 2 4 6,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,7.0,0 2 1,1.0,192,3,True,public_description_reconstruction,True,021
+real_b07_p02_m010,2 0 3 4 6 1 7 5,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,7.0,0 2 1,2.0,192,3,True,public_description_reconstruction,True,021
+real_b07_p02_m011,3 1 2 5 7 0 6 4,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,7.0,0 2 1,3.0,192,3,True,public_description_reconstruction,True,021
+real_b07_p02_m100,4 6 5 2 0 7 1 3,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,7.0,0 2 1,4.0,192,3,True,public_description_reconstruction,True,021
+real_b07_p02_m101,5 7 4 3 1 6 0 2,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,7.0,0 2 1,5.0,192,3,True,public_description_reconstruction,True,021
+real_b07_p02_m110,6 4 7 0 2 5 3 1,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,7.0,0 2 1,6.0,192,3,True,public_description_reconstruction,True,021
+real_b07_p02_m111,7 5 6 1 3 4 2 0,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,7.0,0 2 1,7.0,192,3,True,public_description_reconstruction,True,021
+real_b07_p03_m000,0 1 4 3 2 5 6 7,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,7.0,1 0 2,0.0,8,3,True,public_description_reconstruction,True,102
+real_b07_p03_m001,1 0 5 2 3 4 7 6,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,7.0,1 0 2,1.0,192,3,True,public_description_reconstruction,True,102
+real_b07_p03_m010,2 3 6 1 0 7 4 5,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,7.0,1 0 2,2.0,192,3,True,public_description_reconstruction,True,102
+real_b07_p03_m011,3 2 7 0 1 6 5 4,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,7.0,1 0 2,3.0,192,3,True,public_description_reconstruction,True,102
+real_b07_p03_m100,4 5 0 7 6 1 2 3,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,7.0,1 0 2,4.0,192,3,True,public_description_reconstruction,True,102
+real_b07_p03_m101,5 4 1 6 7 0 3 2,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,7.0,1 0 2,5.0,192,3,True,public_description_reconstruction,True,102
+real_b07_p03_m110,6 7 2 5 4 3 0 1,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,7.0,1 0 2,6.0,192,3,True,public_description_reconstruction,True,102
+real_b07_p03_m111,7 6 3 4 5 2 1 0,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,7.0,1 0 2,7.0,192,3,True,public_description_reconstruction,True,102
+real_b07_p04_m000,0 2 4 3 1 6 5 7,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,7.0,1 2 0,0.0,8,3,True,public_description_reconstruction,True,120
+real_b07_p04_m001,1 3 5 2 0 7 4 6,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,7.0,1 2 0,1.0,384,3,True,public_description_reconstruction,True,120
+real_b07_p04_m010,2 0 6 1 3 4 7 5,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,7.0,1 2 0,2.0,384,3,True,public_description_reconstruction,True,120
+real_b07_p04_m011,3 1 7 0 2 5 6 4,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,7.0,1 2 0,3.0,384,3,True,public_description_reconstruction,True,120
+real_b07_p04_m100,4 6 0 7 5 2 1 3,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,7.0,1 2 0,4.0,384,3,True,public_description_reconstruction,True,120
+real_b07_p04_m101,5 7 1 6 4 3 0 2,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,7.0,1 2 0,5.0,384,3,True,public_description_reconstruction,True,120
+real_b07_p04_m110,6 4 2 5 7 0 3 1,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,7.0,1 2 0,6.0,384,3,True,public_description_reconstruction,True,120
+real_b07_p04_m111,7 5 3 4 6 1 2 0,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,7.0,1 2 0,7.0,384,3,True,public_description_reconstruction,True,120
+real_b07_p05_m000,0 4 1 6 2 5 3 7,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,7.0,2 0 1,0.0,8,3,True,public_description_reconstruction,True,201
+real_b07_p05_m001,1 5 0 7 3 4 2 6,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,7.0,2 0 1,1.0,384,3,True,public_description_reconstruction,True,201
+real_b07_p05_m010,2 6 3 4 0 7 1 5,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,7.0,2 0 1,2.0,384,3,True,public_description_reconstruction,True,201
+real_b07_p05_m011,3 7 2 5 1 6 0 4,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,7.0,2 0 1,3.0,384,3,True,public_description_reconstruction,True,201
+real_b07_p05_m100,4 0 5 2 6 1 7 3,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,7.0,2 0 1,4.0,384,3,True,public_description_reconstruction,True,201
+real_b07_p05_m101,5 1 4 3 7 0 6 2,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,7.0,2 0 1,5.0,384,3,True,public_description_reconstruction,True,201
+real_b07_p05_m110,6 2 7 0 4 3 5 1,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,7.0,2 0 1,6.0,384,3,True,public_description_reconstruction,True,201
+real_b07_p05_m111,7 3 6 1 5 2 4 0,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,7.0,2 0 1,7.0,384,3,True,public_description_reconstruction,True,201
+real_b07_p06_m000,0 4 2 5 1 6 3 7,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,7.0,2 1 0,0.0,8,3,True,public_description_reconstruction,True,210
+real_b07_p06_m001,1 5 3 4 0 7 2 6,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,7.0,2 1 0,1.0,384,3,True,public_description_reconstruction,True,210
+real_b07_p06_m010,2 6 0 7 3 4 1 5,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,7.0,2 1 0,2.0,384,3,True,public_description_reconstruction,True,210
+real_b07_p06_m011,3 7 1 6 2 5 0 4,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,7.0,2 1 0,3.0,384,3,True,public_description_reconstruction,True,210
+real_b07_p06_m100,4 0 6 1 5 2 7 3,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,7.0,2 1 0,4.0,384,3,True,public_description_reconstruction,True,210
+real_b07_p06_m101,5 1 7 0 4 3 6 2,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,7.0,2 1 0,5.0,384,3,True,public_description_reconstruction,True,210
+real_b07_p06_m110,6 2 4 3 7 0 5 1,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,7.0,2 1 0,6.0,384,3,True,public_description_reconstruction,True,210
+real_b07_p06_m111,7 3 5 2 6 1 4 0,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,7.0,2 1 0,7.0,384,3,True,public_description_reconstruction,True,210
+real_b08_p01_m000,0 3 6 5 4 7 2 1,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,8.0,0 1 2,0.0,8,3,True,public_description_reconstruction,True,012
+real_b08_p01_m001,1 2 7 4 5 6 3 0,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,8.0,0 1 2,1.0,192,3,True,public_description_reconstruction,True,012
+real_b08_p01_m010,2 1 4 7 6 5 0 3,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,8.0,0 1 2,2.0,192,3,True,public_description_reconstruction,True,012
+real_b08_p01_m011,3 0 5 6 7 4 1 2,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,8.0,0 1 2,3.0,192,3,True,public_description_reconstruction,True,012
+real_b08_p01_m100,4 7 2 1 0 3 6 5,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,8.0,0 1 2,4.0,192,3,True,public_description_reconstruction,True,012
+real_b08_p01_m101,5 6 3 0 1 2 7 4,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,8.0,0 1 2,5.0,192,3,True,public_description_reconstruction,True,012
+real_b08_p01_m110,6 5 0 3 2 1 4 7,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,8.0,0 1 2,6.0,192,3,True,public_description_reconstruction,True,012
+real_b08_p01_m111,7 4 1 2 3 0 5 6,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,8.0,0 1 2,7.0,192,3,True,public_description_reconstruction,True,012
+real_b08_p02_m000,0 3 5 6 4 7 1 2,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,8.0,0 2 1,0.0,8,3,True,public_description_reconstruction,True,021
+real_b08_p02_m001,1 2 4 7 5 6 0 3,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,8.0,0 2 1,1.0,192,3,True,public_description_reconstruction,True,021
+real_b08_p02_m010,2 1 7 4 6 5 3 0,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,8.0,0 2 1,2.0,192,3,True,public_description_reconstruction,True,021
+real_b08_p02_m011,3 0 6 5 7 4 2 1,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,8.0,0 2 1,3.0,192,3,True,public_description_reconstruction,True,021
+real_b08_p02_m100,4 7 1 2 0 3 5 6,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,8.0,0 2 1,4.0,192,3,True,public_description_reconstruction,True,021
+real_b08_p02_m101,5 6 0 3 1 2 4 7,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,8.0,0 2 1,5.0,192,3,True,public_description_reconstruction,True,021
+real_b08_p02_m110,6 5 3 0 2 1 7 4,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,8.0,0 2 1,6.0,192,3,True,public_description_reconstruction,True,021
+real_b08_p02_m111,7 4 2 1 3 0 6 5,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,8.0,0 2 1,7.0,192,3,True,public_description_reconstruction,True,021
+real_b08_p03_m000,0 5 6 3 2 7 4 1,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,8.0,1 0 2,0.0,8,3,True,public_description_reconstruction,True,102
+real_b08_p03_m001,1 4 7 2 3 6 5 0,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,8.0,1 0 2,1.0,192,3,True,public_description_reconstruction,True,102
+real_b08_p03_m010,2 7 4 1 0 5 6 3,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,8.0,1 0 2,2.0,192,3,True,public_description_reconstruction,True,102
+real_b08_p03_m011,3 6 5 0 1 4 7 2,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,8.0,1 0 2,3.0,192,3,True,public_description_reconstruction,True,102
+real_b08_p03_m100,4 1 2 7 6 3 0 5,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,8.0,1 0 2,4.0,192,3,True,public_description_reconstruction,True,102
+real_b08_p03_m101,5 0 3 6 7 2 1 4,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,8.0,1 0 2,5.0,192,3,True,public_description_reconstruction,True,102
+real_b08_p03_m110,6 3 0 5 4 1 2 7,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,8.0,1 0 2,6.0,192,3,True,public_description_reconstruction,True,102
+real_b08_p03_m111,7 2 1 4 5 0 3 6,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,8.0,1 0 2,7.0,192,3,True,public_description_reconstruction,True,102
+real_b08_p04_m000,0 6 5 3 1 7 4 2,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,8.0,1 2 0,0.0,8,3,True,public_description_reconstruction,True,120
+real_b08_p04_m001,1 7 4 2 0 6 5 3,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,8.0,1 2 0,1.0,384,3,True,public_description_reconstruction,True,120
+real_b08_p04_m010,2 4 7 1 3 5 6 0,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,8.0,1 2 0,2.0,384,3,True,public_description_reconstruction,True,120
+real_b08_p04_m011,3 5 6 0 2 4 7 1,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,8.0,1 2 0,3.0,384,3,True,public_description_reconstruction,True,120
+real_b08_p04_m100,4 2 1 7 5 3 0 6,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,8.0,1 2 0,4.0,384,3,True,public_description_reconstruction,True,120
+real_b08_p04_m101,5 3 0 6 4 2 1 7,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,8.0,1 2 0,5.0,384,3,True,public_description_reconstruction,True,120
+real_b08_p04_m110,6 0 3 5 7 1 2 4,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,8.0,1 2 0,6.0,384,3,True,public_description_reconstruction,True,120
+real_b08_p04_m111,7 1 2 4 6 0 3 5,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,8.0,1 2 0,7.0,384,3,True,public_description_reconstruction,True,120
+real_b08_p05_m000,0 5 3 6 2 7 1 4,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,8.0,2 0 1,0.0,8,3,True,public_description_reconstruction,True,201
+real_b08_p05_m001,1 4 2 7 3 6 0 5,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,8.0,2 0 1,1.0,384,3,True,public_description_reconstruction,True,201
+real_b08_p05_m010,2 7 1 4 0 5 3 6,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,8.0,2 0 1,2.0,384,3,True,public_description_reconstruction,True,201
+real_b08_p05_m011,3 6 0 5 1 4 2 7,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,8.0,2 0 1,3.0,384,3,True,public_description_reconstruction,True,201
+real_b08_p05_m100,4 1 7 2 6 3 5 0,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,8.0,2 0 1,4.0,384,3,True,public_description_reconstruction,True,201
+real_b08_p05_m101,5 0 6 3 7 2 4 1,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,8.0,2 0 1,5.0,384,3,True,public_description_reconstruction,True,201
+real_b08_p05_m110,6 3 5 0 4 1 7 2,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,8.0,2 0 1,6.0,384,3,True,public_description_reconstruction,True,201
+real_b08_p05_m111,7 2 4 1 5 0 6 3,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,8.0,2 0 1,7.0,384,3,True,public_description_reconstruction,True,201
+real_b08_p06_m000,0 6 3 5 1 7 2 4,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,8.0,2 1 0,0.0,8,3,True,public_description_reconstruction,True,210
+real_b08_p06_m001,1 7 2 4 0 6 3 5,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,8.0,2 1 0,1.0,384,3,True,public_description_reconstruction,True,210
+real_b08_p06_m010,2 4 1 7 3 5 0 6,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,8.0,2 1 0,2.0,384,3,True,public_description_reconstruction,True,210
+real_b08_p06_m011,3 5 0 6 2 4 1 7,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,8.0,2 1 0,3.0,384,3,True,public_description_reconstruction,True,210
+real_b08_p06_m100,4 2 7 1 5 3 6 0,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,8.0,2 1 0,4.0,384,3,True,public_description_reconstruction,True,210
+real_b08_p06_m101,5 3 6 0 4 2 7 1,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,8.0,2 1 0,5.0,384,3,True,public_description_reconstruction,True,210
+real_b08_p06_m110,6 0 5 3 7 1 4 2,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,8.0,2 1 0,6.0,384,3,True,public_description_reconstruction,True,210
+real_b08_p06_m111,7 1 4 2 6 0 5 3,real_cet_reconstructed,67-Jun-11025.pdf; 79-Aug-11441.pdf; Springer chapter 10.1007/978-3-032-18415-3_12,8.0,2 1 0,7.0,384,3,True,public_description_reconstruction,True,210
+mc_random_perm_0000,2 5 7 0 1 4 6 3,monte_carlo_random_permutation,synthetic reversible baseline,,,,8,2,False,controlled_dgp_random,False,
+mc_random_perm_0001,4 3 1 7 0 2 6 5,monte_carlo_random_permutation,synthetic reversible baseline,,,,192,2,False,controlled_dgp_random,False,
+mc_random_perm_0002,5 2 0 7 4 1 6 3,monte_carlo_random_permutation,synthetic reversible baseline,,,,192,3,False,controlled_dgp_random,False,
+mc_random_perm_0003,2 3 1 4 7 5 6 0,monte_carlo_random_permutation,synthetic reversible baseline,,,,8,2,False,controlled_dgp_random,False,
+mc_random_perm_0004,0 7 6 1 3 2 5 4,monte_carlo_random_permutation,synthetic reversible baseline,,,,192,2,False,controlled_dgp_random,False,
+mc_random_perm_0005,4 5 1 6 3 2 0 7,monte_carlo_random_permutation,synthetic reversible baseline,,,,192,4,False,controlled_dgp_random,False,
+mc_random_perm_0006,4 6 2 5 1 3 0 7,monte_carlo_random_permutation,synthetic reversible baseline,,,,192,2,False,controlled_dgp_random,False,
+mc_random_perm_0007,6 2 0 7 1 5 4 3,monte_carlo_random_permutation,synthetic reversible baseline,,,,384,2,False,controlled_dgp_random,False,
+mc_random_perm_0008,4 3 0 5 1 2 6 7,monte_carlo_random_permutation,synthetic reversible baseline,,,,192,2,False,controlled_dgp_random,False,
+mc_random_perm_0009,1 5 7 4 6 2 0 3,monte_carlo_random_permutation,synthetic reversible baseline,,,,192,3,False,controlled_dgp_random,False,
+mc_random_perm_0010,4 5 7 3 1 2 6 0,monte_carlo_random_permutation,synthetic reversible baseline,,,,192,3,False,controlled_dgp_random,False,
+mc_random_perm_0011,2 5 6 1 4 7 0 3,monte_carlo_random_permutation,synthetic reversible baseline,,,,384,3,False,controlled_dgp_random,False,
+mc_random_perm_0012,0 1 3 6 4 5 7 2,monte_carlo_random_permutation,synthetic reversible baseline,,,,192,3,False,controlled_dgp_random,False,
+mc_random_perm_0013,0 6 7 1 5 4 3 2,monte_carlo_random_permutation,synthetic reversible baseline,,,,192,3,False,controlled_dgp_random,False,
+mc_random_perm_0014,3 4 1 2 7 6 0 5,monte_carlo_random_permutation,synthetic reversible baseline,,,,8,3,False,controlled_dgp_random,False,
+mc_random_perm_0015,0 4 1 2 7 6 5 3,monte_carlo_random_permutation,synthetic reversible baseline,,,,192,2,False,controlled_dgp_random,False,
+mc_random_perm_0016,2 3 0 5 6 1 7 4,monte_carlo_random_permutation,synthetic reversible baseline,,,,8,4,False,controlled_dgp_random,False,
+mc_random_perm_0017,7 3 1 6 2 0 4 5,monte_carlo_random_permutation,synthetic reversible baseline,,,,192,4,False,controlled_dgp_random,False,
+mc_random_perm_0018,1 6 3 4 2 5 0 7,monte_carlo_random_permutation,synthetic reversible baseline,,,,8,3,False,controlled_dgp_random,False,
+mc_random_perm_0019,3 0 1 4 2 7 6 5,monte_carlo_random_permutation,synthetic reversible baseline,,,,384,4,False,controlled_dgp_random,False,
+mc_random_perm_0020,7 2 4 3 0 1 6 5,monte_carlo_random_permutation,synthetic reversible baseline,,,,8,4,False,controlled_dgp_random,False,
+mc_random_perm_0021,0 4 3 2 1 7 6 5,monte_carlo_random_permutation,synthetic reversible baseline,,,,192,4,False,controlled_dgp_random,False,
+mc_random_perm_0022,1 4 6 2 0 3 7 5,monte_carlo_random_permutation,synthetic reversible baseline,,,,384,3,False,controlled_dgp_random,False,
+mc_random_perm_0023,1 0 2 4 5 7 6 3,monte_carlo_random_permutation,synthetic reversible baseline,,,,192,4,False,controlled_dgp_random,False,
+mc_random_perm_0024,6 0 1 2 3 4 7 5,monte_carlo_random_permutation,synthetic reversible baseline,,,,8,2,False,controlled_dgp_random,False,
+mc_random_perm_0025,3 1 5 7 0 6 2 4,monte_carlo_random_permutation,synthetic reversible baseline,,,,192,2,False,controlled_dgp_random,False,
+mc_random_perm_0026,4 2 3 1 7 6 0 5,monte_carlo_random_permutation,synthetic reversible baseline,,,,8,3,False,controlled_dgp_random,False,
+mc_random_perm_0027,7 5 0 6 1 3 2 4,monte_carlo_random_permutation,synthetic reversible baseline,,,,8,2,False,controlled_dgp_random,False,
+mc_random_perm_0028,0 5 6 2 1 4 3 7,monte_carlo_random_permutation,synthetic reversible baseline,,,,8,4,False,controlled_dgp_random,False,
+mc_random_perm_0029,5 7 2 6 3 0 4 1,monte_carlo_random_permutation,synthetic reversible baseline,,,,192,2,False,controlled_dgp_random,False,
+mc_random_perm_0030,7 3 6 0 4 1 2 5,monte_carlo_random_permutation,synthetic reversible baseline,,,,192,2,False,controlled_dgp_random,False,
+mc_random_perm_0031,1 3 2 7 4 5 6 0,monte_carlo_random_permutation,synthetic reversible baseline,,,,8,4,False,controlled_dgp_random,False,
+mc_random_perm_0032,4 3 5 6 1 2 7 0,monte_carlo_random_permutation,synthetic reversible baseline,,,,8,3,False,controlled_dgp_random,False,
+mc_random_perm_0033,0 3 1 5 6 4 2 7,monte_carlo_random_permutation,synthetic reversible baseline,,,,192,2,False,controlled_dgp_random,False,
+mc_random_perm_0034,2 7 5 3 4 6 0 1,monte_carlo_random_permutation,synthetic reversible baseline,,,,384,4,False,controlled_dgp_random,False,
+mc_random_perm_0035,5 3 4 6 7 1 0 2,monte_carlo_random_permutation,synthetic reversible baseline,,,,192,2,False,controlled_dgp_random,False,
+mc_random_perm_0036,3 1 2 5 7 0 4 6,monte_carlo_random_permutation,synthetic reversible baseline,,,,384,4,False,controlled_dgp_random,False,
+mc_random_perm_0037,1 7 5 0 6 2 4 3,monte_carlo_random_permutation,synthetic reversible baseline,,,,8,2,False,controlled_dgp_random,False,
+mc_random_perm_0038,2 6 4 0 3 1 7 5,monte_carlo_random_permutation,synthetic reversible baseline,,,,192,4,False,controlled_dgp_random,False,
+mc_random_perm_0039,3 4 1 0 6 7 2 5,monte_carlo_random_permutation,synthetic reversible baseline,,,,192,3,False,controlled_dgp_random,False,
+mc_random_perm_0040,3 4 0 1 6 7 2 5,monte_carlo_random_permutation,synthetic reversible baseline,,,,192,4,False,controlled_dgp_random,False,
+mc_random_perm_0041,6 5 4 1 2 3 0 7,monte_carlo_random_permutation,synthetic reversible baseline,,,,8,2,False,controlled_dgp_random,False,
+mc_random_perm_0042,1 7 3 6 2 0 4 5,monte_carlo_random_permutation,synthetic reversible baseline,,,,8,4,False,controlled_dgp_random,False,
+mc_random_perm_0043,2 0 6 4 5 1 7 3,monte_carlo_random_permutation,synthetic reversible baseline,,,,192,2,False,controlled_dgp_random,False,
+mc_random_perm_0044,1 3 2 5 0 7 4 6,monte_carlo_random_permutation,synthetic reversible baseline,,,,192,2,False,controlled_dgp_random,False,
+mc_random_perm_0045,4 5 0 7 3 2 6 1,monte_carlo_random_permutation,synthetic reversible baseline,,,,384,3,False,controlled_dgp_random,False,
+mc_random_perm_0046,5 3 4 6 0 1 2 7,monte_carlo_random_permutation,synthetic reversible baseline,,,,384,4,False,controlled_dgp_random,False,
+mc_random_perm_0047,2 4 1 3 6 0 5 7,monte_carlo_random_permutation,synthetic reversible baseline,,,,8,4,False,controlled_dgp_random,False,
+mc_random_perm_0048,4 1 3 5 7 0 6 2,monte_carlo_random_permutation,synthetic reversible baseline,,,,192,4,False,controlled_dgp_random,False,
+mc_random_perm_0049,6 3 5 1 4 0 2 7,monte_carlo_random_permutation,synthetic reversible baseline,,,,192,4,False,controlled_dgp_random,False,
+mc_random_perm_0050,6 7 0 4 3 2 1 5,monte_carlo_random_permutation,synthetic reversible baseline,,,,192,2,False,controlled_dgp_random,False,
+mc_random_perm_0051,5 4 1 6 3 0 2 7,monte_carlo_random_permutation,synthetic reversible baseline,,,,384,3,False,controlled_dgp_random,False,
+mc_random_perm_0052,7 1 6 3 2 0 5 4,monte_carlo_random_permutation,synthetic reversible baseline,,,,384,3,False,controlled_dgp_random,False,
+mc_random_perm_0053,1 7 5 0 3 4 6 2,monte_carlo_random_permutation,synthetic reversible baseline,,,,384,3,False,controlled_dgp_random,False,
+mc_random_perm_0054,0 3 4 5 6 1 7 2,monte_carlo_random_permutation,synthetic reversible baseline,,,,384,3,False,controlled_dgp_random,False,
+mc_random_perm_0055,4 5 1 6 0 2 3 7,monte_carlo_random_permutation,synthetic reversible baseline,,,,384,2,False,controlled_dgp_random,False,
+mc_random_perm_0056,2 0 6 3 7 4 1 5,monte_carlo_random_permutation,synthetic reversible baseline,,,,192,2,False,controlled_dgp_random,False,
+mc_random_perm_0057,5 3 0 6 1 4 7 2,monte_carlo_random_permutation,synthetic reversible baseline,,,,384,3,False,controlled_dgp_random,False,
+mc_random_perm_0058,2 5 7 1 4 6 3 0,monte_carlo_random_permutation,synthetic reversible baseline,,,,8,3,False,controlled_dgp_random,False,
+mc_random_perm_0059,1 6 2 5 0 4 7 3,monte_carlo_random_permutation,synthetic reversible baseline,,,,192,3,False,controlled_dgp_random,False,
+mc_random_perm_0060,3 1 6 5 2 4 0 7,monte_carlo_random_permutation,synthetic reversible baseline,,,,192,4,False,controlled_dgp_random,False,
+mc_random_perm_0061,3 1 4 0 5 6 2 7,monte_carlo_random_permutation,synthetic reversible baseline,,,,8,2,False,controlled_dgp_random,False,
+mc_random_perm_0062,2 1 3 0 4 6 7 5,monte_carlo_random_permutation,synthetic reversible baseline,,,,192,2,False,controlled_dgp_random,False,
+mc_random_perm_0063,5 6 7 0 3 2 1 4,monte_carlo_random_permutation,synthetic reversible baseline,,,,384,4,False,controlled_dgp_random,False,
+mc_random_perm_0064,3 7 6 2 4 5 1 0,monte_carlo_random_permutation,synthetic reversible baseline,,,,192,4,False,controlled_dgp_random,False,
+mc_random_perm_0065,2 5 3 0 6 4 7 1,monte_carlo_random_permutation,synthetic reversible baseline,,,,192,3,False,controlled_dgp_random,False,
+mc_random_perm_0066,5 2 6 4 7 3 1 0,monte_carlo_random_permutation,synthetic reversible baseline,,,,192,3,False,controlled_dgp_random,False,
+mc_random_perm_0067,6 2 4 1 3 7 5 0,monte_carlo_random_permutation,synthetic reversible baseline,,,,384,3,False,controlled_dgp_random,False,
+mc_random_perm_0068,5 4 7 6 3 1 2 0,monte_carlo_random_permutation,synthetic reversible baseline,,,,8,4,False,controlled_dgp_random,False,
+mc_random_perm_0069,0 5 1 3 7 6 2 4,monte_carlo_random_permutation,synthetic reversible baseline,,,,8,2,False,controlled_dgp_random,False,
+mc_random_perm_0070,7 1 4 6 5 0 2 3,monte_carlo_random_permutation,synthetic reversible baseline,,,,192,2,False,controlled_dgp_random,False,
+mc_random_perm_0071,1 4 3 0 2 5 7 6,monte_carlo_random_permutation,synthetic reversible baseline,,,,8,4,False,controlled_dgp_random,False,
+mc_random_perm_0072,0 6 4 1 2 7 5 3,monte_carlo_random_permutation,synthetic reversible baseline,,,,192,2,False,controlled_dgp_random,False,
+mc_random_perm_0073,4 6 2 7 0 1 5 3,monte_carlo_random_permutation,synthetic reversible baseline,,,,384,4,False,controlled_dgp_random,False,
+mc_random_perm_0074,5 6 3 4 1 0 2 7,monte_carlo_random_permutation,synthetic reversible baseline,,,,8,2,False,controlled_dgp_random,False,
+mc_random_perm_0075,4 5 6 1 0 2 7 3,monte_carlo_random_permutation,synthetic reversible baseline,,,,8,2,False,controlled_dgp_random,False,
+mc_random_perm_0076,5 6 2 7 0 4 1 3,monte_carlo_random_permutation,synthetic reversible baseline,,,,8,3,False,controlled_dgp_random,False,
+mc_random_perm_0077,3 6 5 4 1 7 2 0,monte_carlo_random_permutation,synthetic reversible baseline,,,,384,4,False,controlled_dgp_random,False,
+mc_random_perm_0078,6 5 7 0 4 3 2 1,monte_carlo_random_permutation,synthetic reversible baseline,,,,192,4,False,controlled_dgp_random,False,
+mc_random_perm_0079,4 0 3 7 5 6 2 1,monte_carlo_random_permutation,synthetic reversible baseline,,,,192,3,False,controlled_dgp_random,False,
+mc_random_perm_0080,4 7 1 5 0 3 2 6,monte_carlo_random_permutation,synthetic reversible baseline,,,,192,3,False,controlled_dgp_random,False,
+mc_random_perm_0081,5 3 0 6 2 7 1 4,monte_carlo_random_permutation,synthetic reversible baseline,,,,192,3,False,controlled_dgp_random,False,
+mc_random_perm_0082,2 1 3 5 4 7 6 0,monte_carlo_random_permutation,synthetic reversible baseline,,,,384,3,False,controlled_dgp_random,False,
+mc_random_perm_0083,6 7 5 3 1 4 0 2,monte_carlo_random_permutation,synthetic reversible baseline,,,,8,2,False,controlled_dgp_random,False,
+mc_random_perm_0084,4 3 0 7 6 5 1 2,monte_carlo_random_permutation,synthetic reversible baseline,,,,192,3,False,controlled_dgp_random,False,
+mc_random_perm_0085,7 5 6 2 0 4 3 1,monte_carlo_random_permutation,synthetic reversible baseline,,,,192,2,False,controlled_dgp_random,False,
+mc_random_perm_0086,3 6 4 2 5 7 0 1,monte_carlo_random_permutation,synthetic reversible baseline,,,,192,3,False,controlled_dgp_random,False,
+mc_random_perm_0087,1 6 0 2 3 4 7 5,monte_carlo_random_permutation,synthetic reversible baseline,,,,192,4,False,controlled_dgp_random,False,
+mc_random_perm_0088,4 5 1 0 7 6 3 2,monte_carlo_random_permutation,synthetic reversible baseline,,,,192,4,False,controlled_dgp_random,False,
+mc_random_perm_0089,1 6 5 3 0 2 7 4,monte_carlo_random_permutation,synthetic reversible baseline,,,,384,3,False,controlled_dgp_random,False,
+mc_random_perm_0090,2 0 6 7 4 1 3 5,monte_carlo_random_permutation,synthetic reversible baseline,,,,8,3,False,controlled_dgp_random,False,
+mc_random_perm_0091,5 4 7 2 3 1 0 6,monte_carlo_random_permutation,synthetic reversible baseline,,,,192,2,False,controlled_dgp_random,False,
+mc_random_perm_0092,3 7 0 5 1 6 4 2,monte_carlo_random_permutation,synthetic reversible baseline,,,,8,3,False,controlled_dgp_random,False,
+mc_random_perm_0093,2 3 5 7 0 4 1 6,monte_carlo_random_permutation,synthetic reversible baseline,,,,192,2,False,controlled_dgp_random,False,
+mc_random_perm_0094,5 6 7 3 0 2 4 1,monte_carlo_random_permutation,synthetic reversible baseline,,,,192,2,False,controlled_dgp_random,False,
+mc_random_perm_0095,0 1 4 5 3 7 6 2,monte_carlo_random_permutation,synthetic reversible baseline,,,,384,3,False,controlled_dgp_random,False,
+mc_random_perm_0096,0 2 5 6 4 3 7 1,monte_carlo_random_permutation,synthetic reversible baseline,,,,192,2,False,controlled_dgp_random,False,
+mc_random_perm_0097,2 1 3 0 5 6 4 7,monte_carlo_random_permutation,synthetic reversible baseline,,,,8,2,False,controlled_dgp_random,False,
+mc_random_perm_0098,5 2 6 3 1 7 0 4,monte_carlo_random_permutation,synthetic reversible baseline,,,,192,3,False,controlled_dgp_random,False,
+mc_random_perm_0099,1 4 3 2 6 0 7 5,monte_carlo_random_permutation,synthetic reversible baseline,,,,384,3,False,controlled_dgp_random,False,
+mc_random_perm_0100,4 3 2 6 5 0 1 7,monte_carlo_random_permutation,synthetic reversible baseline,,,,8,2,False,controlled_dgp_random,False,
+mc_random_perm_0101,3 1 5 0 7 6 4 2,monte_carlo_random_permutation,synthetic reversible baseline,,,,192,3,False,controlled_dgp_random,False,
+mc_random_perm_0102,3 6 4 0 2 7 5 1,monte_carlo_random_permutation,synthetic reversible baseline,,,,384,3,False,controlled_dgp_random,False,
+mc_random_perm_0103,4 3 6 1 5 2 7 0,monte_carlo_random_permutation,synthetic reversible baseline,,,,8,4,False,controlled_dgp_random,False,
+mc_random_perm_0104,1 6 4 2 3 7 5 0,monte_carlo_random_permutation,synthetic reversible baseline,,,,384,4,False,controlled_dgp_random,False,
+mc_random_perm_0105,6 3 5 1 0 4 2 7,monte_carlo_random_permutation,synthetic reversible baseline,,,,192,2,False,controlled_dgp_random,False,
+mc_random_perm_0106,6 2 5 1 0 7 3 4,monte_carlo_random_permutation,synthetic reversible baseline,,,,384,2,False,controlled_dgp_random,False,
+mc_random_perm_0107,0 5 6 2 4 1 3 7,monte_carlo_random_permutation,synthetic reversible baseline,,,,192,4,False,controlled_dgp_random,False,
+mc_random_perm_0108,1 0 4 7 6 2 3 5,monte_carlo_random_permutation,synthetic reversible baseline,,,,8,3,False,controlled_dgp_random,False,
+mc_random_perm_0109,5 7 3 1 4 0 6 2,monte_carlo_random_permutation,synthetic reversible baseline,,,,384,4,False,controlled_dgp_random,False,
+mc_random_perm_0110,7 6 5 1 0 2 4 3,monte_carlo_random_permutation,synthetic reversible baseline,,,,8,4,False,controlled_dgp_random,False,
+mc_random_perm_0111,2 5 6 3 4 0 1 7,monte_carlo_random_permutation,synthetic reversible baseline,,,,8,2,False,controlled_dgp_random,False,
+mc_random_perm_0112,1 5 0 7 4 3 6 2,monte_carlo_random_permutation,synthetic reversible baseline,,,,192,3,False,controlled_dgp_random,False,
+mc_random_perm_0113,5 2 1 6 4 0 7 3,monte_carlo_random_permutation,synthetic reversible baseline,,,,384,3,False,controlled_dgp_random,False,
+mc_random_perm_0114,2 4 5 0 3 6 1 7,monte_carlo_random_permutation,synthetic reversible baseline,,,,384,4,False,controlled_dgp_random,False,
+mc_random_perm_0115,7 0 5 6 1 2 4 3,monte_carlo_random_permutation,synthetic reversible baseline,,,,192,2,False,controlled_dgp_random,False,
+mc_random_perm_0116,1 3 0 2 7 6 5 4,monte_carlo_random_permutation,synthetic reversible baseline,,,,384,2,False,controlled_dgp_random,False,
+mc_random_perm_0117,0 3 2 1 6 5 7 4,monte_carlo_random_permutation,synthetic reversible baseline,,,,384,4,False,controlled_dgp_random,False,
+mc_random_perm_0118,3 0 5 7 4 2 1 6,monte_carlo_random_permutation,synthetic reversible baseline,,,,8,4,False,controlled_dgp_random,False,
+mc_random_perm_0119,3 1 4 0 5 7 6 2,monte_carlo_random_permutation,synthetic reversible baseline,,,,384,2,False,controlled_dgp_random,False,
+mc_random_perm_0120,2 6 4 1 7 0 3 5,monte_carlo_random_permutation,synthetic reversible baseline,,,,384,2,False,controlled_dgp_random,False,
+mc_random_perm_0121,5 0 2 4 3 1 6 7,monte_carlo_random_permutation,synthetic reversible baseline,,,,8,4,False,controlled_dgp_random,False,
+mc_random_perm_0122,5 2 7 0 6 1 4 3,monte_carlo_random_permutation,synthetic reversible baseline,,,,8,3,False,controlled_dgp_random,False,
+mc_random_perm_0123,1 0 7 3 2 6 5 4,monte_carlo_random_permutation,synthetic reversible baseline,,,,384,2,False,controlled_dgp_random,False,
+mc_random_perm_0124,4 6 3 7 5 2 0 1,monte_carlo_random_permutation,synthetic reversible baseline,,,,384,2,False,controlled_dgp_random,False,
+mc_random_perm_0125,6 5 2 3 1 7 4 0,monte_carlo_random_permutation,synthetic reversible baseline,,,,384,4,False,controlled_dgp_random,False,
+mc_random_perm_0126,5 1 4 6 7 0 3 2,monte_carlo_random_permutation,synthetic reversible baseline,,,,192,3,False,controlled_dgp_random,False,
+mc_random_perm_0127,1 3 0 2 5 6 7 4,monte_carlo_random_permutation,synthetic reversible baseline,,,,8,4,False,controlled_dgp_random,False,
+mc_random_perm_0128,7 1 6 0 2 5 3 4,monte_carlo_random_permutation,synthetic reversible baseline,,,,384,3,False,controlled_dgp_random,False,
+mc_random_perm_0129,6 0 3 4 5 1 2 7,monte_carlo_random_permutation,synthetic reversible baseline,,,,384,3,False,controlled_dgp_random,False,
+mc_random_perm_0130,4 3 5 6 2 7 0 1,monte_carlo_random_permutation,synthetic reversible baseline,,,,192,2,False,controlled_dgp_random,False,
+mc_random_perm_0131,4 2 1 6 7 3 0 5,monte_carlo_random_permutation,synthetic reversible baseline,,,,8,3,False,controlled_dgp_random,False,
+mc_random_perm_0132,4 0 2 7 3 1 5 6,monte_carlo_random_permutation,synthetic reversible baseline,,,,384,3,False,controlled_dgp_random,False,
+mc_random_perm_0133,0 4 2 7 6 3 1 5,monte_carlo_random_permutation,synthetic reversible baseline,,,,384,2,False,controlled_dgp_random,False,
+mc_random_perm_0134,1 5 3 4 7 6 2 0,monte_carlo_random_permutation,synthetic reversible baseline,,,,8,2,False,controlled_dgp_random,False,
+mc_random_perm_0135,7 0 5 2 6 3 1 4,monte_carlo_random_permutation,synthetic reversible baseline,,,,192,4,False,controlled_dgp_random,False,
+mc_random_perm_0136,3 4 1 7 5 2 0 6,monte_carlo_random_permutation,synthetic reversible baseline,,,,8,4,False,controlled_dgp_random,False,
+mc_random_perm_0137,1 3 4 0 7 5 6 2,monte_carlo_random_permutation,synthetic reversible baseline,,,,192,4,False,controlled_dgp_random,False,
+mc_random_perm_0138,7 2 3 5 0 6 4 1,monte_carlo_random_permutation,synthetic reversible baseline,,,,384,2,False,controlled_dgp_random,False,
+mc_random_perm_0139,0 1 4 6 5 2 3 7,monte_carlo_random_permutation,synthetic reversible baseline,,,,192,2,False,controlled_dgp_random,False,
+mc_random_perm_0140,2 0 6 3 1 7 5 4,monte_carlo_random_permutation,synthetic reversible baseline,,,,384,3,False,controlled_dgp_random,False,
+mc_random_perm_0141,5 1 4 6 0 7 3 2,monte_carlo_random_permutation,synthetic reversible baseline,,,,192,2,False,controlled_dgp_random,False,
+mc_random_perm_0142,4 6 7 3 2 0 5 1,monte_carlo_random_permutation,synthetic reversible baseline,,,,384,2,False,controlled_dgp_random,False,
+mc_random_perm_0143,1 2 5 4 3 0 7 6,monte_carlo_random_permutation,synthetic reversible baseline,,,,384,4,False,controlled_dgp_random,False,
+mc_random_perm_0144,3 4 2 6 0 1 7 5,monte_carlo_random_permutation,synthetic reversible baseline,,,,192,4,False,controlled_dgp_random,False,
+mc_random_perm_0145,6 1 2 0 4 7 3 5,monte_carlo_random_permutation,synthetic reversible baseline,,,,384,2,False,controlled_dgp_random,False,
+mc_random_perm_0146,6 2 7 4 3 0 5 1,monte_carlo_random_permutation,synthetic reversible baseline,,,,384,4,False,controlled_dgp_random,False,
+mc_random_perm_0147,4 1 5 0 2 3 6 7,monte_carlo_random_permutation,synthetic reversible baseline,,,,8,3,False,controlled_dgp_random,False,
+mc_random_perm_0148,2 5 3 0 7 4 1 6,monte_carlo_random_permutation,synthetic reversible baseline,,,,384,2,False,controlled_dgp_random,False,
+mc_random_perm_0149,6 7 5 3 4 1 0 2,monte_carlo_random_permutation,synthetic reversible baseline,,,,192,3,False,controlled_dgp_random,False,
+mc_random_perm_0150,1 0 5 3 6 4 7 2,monte_carlo_random_permutation,synthetic reversible baseline,,,,8,4,False,controlled_dgp_random,False,
+mc_random_perm_0151,1 3 6 7 2 4 0 5,monte_carlo_random_permutation,synthetic reversible baseline,,,,192,3,False,controlled_dgp_random,False,
+mc_random_perm_0152,2 3 1 4 0 7 5 6,monte_carlo_random_permutation,synthetic reversible baseline,,,,384,3,False,controlled_dgp_random,False,
+mc_random_perm_0153,4 2 5 3 0 1 7 6,monte_carlo_random_permutation,synthetic reversible baseline,,,,384,2,False,controlled_dgp_random,False,
+mc_random_perm_0154,3 4 7 5 1 2 0 6,monte_carlo_random_permutation,synthetic reversible baseline,,,,8,2,False,controlled_dgp_random,False,
+mc_random_perm_0155,5 1 2 7 4 0 3 6,monte_carlo_random_permutation,synthetic reversible baseline,,,,384,2,False,controlled_dgp_random,False,
+mc_random_perm_0156,1 2 0 7 4 5 3 6,monte_carlo_random_permutation,synthetic reversible baseline,,,,8,4,False,controlled_dgp_random,False,
+mc_random_perm_0157,3 1 4 7 5 0 6 2,monte_carlo_random_permutation,synthetic reversible baseline,,,,8,4,False,controlled_dgp_random,False,
+mc_random_perm_0158,4 7 0 1 5 6 2 3,monte_carlo_random_permutation,synthetic reversible baseline,,,,8,2,False,controlled_dgp_random,False,
+mc_random_perm_0159,3 4 1 0 2 7 5 6,monte_carlo_random_permutation,synthetic reversible baseline,,,,384,4,False,controlled_dgp_random,False,
+mc_random_perm_0160,3 4 7 0 6 5 2 1,monte_carlo_random_permutation,synthetic reversible baseline,,,,192,4,False,controlled_dgp_random,False,
+mc_random_perm_0161,5 1 3 6 2 0 4 7,monte_carlo_random_permutation,synthetic reversible baseline,,,,384,3,False,controlled_dgp_random,False,
+mc_random_perm_0162,5 4 0 1 2 7 3 6,monte_carlo_random_permutation,synthetic reversible baseline,,,,192,4,False,controlled_dgp_random,False,
+mc_random_perm_0163,3 2 7 6 1 5 0 4,monte_carlo_random_permutation,synthetic reversible baseline,,,,8,2,False,controlled_dgp_random,False,
+mc_random_perm_0164,2 0 4 6 7 1 3 5,monte_carlo_random_permutation,synthetic reversible baseline,,,,384,4,False,controlled_dgp_random,False,
+mc_random_perm_0165,7 2 4 1 5 0 6 3,monte_carlo_random_permutation,synthetic reversible baseline,,,,384,2,False,controlled_dgp_random,False,
+mc_random_perm_0166,4 2 5 1 6 3 7 0,monte_carlo_random_permutation,synthetic reversible baseline,,,,384,2,False,controlled_dgp_random,False,
+mc_random_perm_0167,7 1 6 5 0 2 3 4,monte_carlo_random_permutation,synthetic reversible baseline,,,,8,4,False,controlled_dgp_random,False,
+mc_random_perm_0168,2 0 4 3 7 1 6 5,monte_carlo_random_permutation,synthetic reversible baseline,,,,384,4,False,controlled_dgp_random,False,
+mc_random_perm_0169,5 6 7 0 1 2 3 4,monte_carlo_random_permutation,synthetic reversible baseline,,,,192,4,False,controlled_dgp_random,False,
+mc_random_perm_0170,2 7 0 6 5 1 4 3,monte_carlo_random_permutation,synthetic reversible baseline,,,,384,4,False,controlled_dgp_random,False,
+mc_random_perm_0171,5 4 1 7 6 0 2 3,monte_carlo_random_permutation,synthetic reversible baseline,,,,192,3,False,controlled_dgp_random,False,
+mc_random_perm_0172,7 5 1 4 0 2 6 3,monte_carlo_random_permutation,synthetic reversible baseline,,,,384,3,False,controlled_dgp_random,False,
+mc_random_perm_0173,6 5 0 2 7 4 3 1,monte_carlo_random_permutation,synthetic reversible baseline,,,,192,3,False,controlled_dgp_random,False,
+mc_random_perm_0174,4 1 3 0 2 7 5 6,monte_carlo_random_permutation,synthetic reversible baseline,,,,384,4,False,controlled_dgp_random,False,
+mc_random_perm_0175,5 3 0 2 1 6 7 4,monte_carlo_random_permutation,synthetic reversible baseline,,,,8,4,False,controlled_dgp_random,False,
+mc_random_perm_0176,0 5 2 6 1 3 4 7,monte_carlo_random_permutation,synthetic reversible baseline,,,,384,2,False,controlled_dgp_random,False,
+mc_random_perm_0177,1 2 5 4 0 6 7 3,monte_carlo_random_permutation,synthetic reversible baseline,,,,192,4,False,controlled_dgp_random,False,
+mc_random_perm_0178,0 6 4 1 3 7 2 5,monte_carlo_random_permutation,synthetic reversible baseline,,,,8,4,False,controlled_dgp_random,False,
+mc_random_perm_0179,5 6 2 1 4 7 3 0,monte_carlo_random_permutation,synthetic reversible baseline,,,,384,4,False,controlled_dgp_random,False,
+mc_random_perm_0180,7 2 4 6 1 5 3 0,monte_carlo_random_permutation,synthetic reversible baseline,,,,192,2,False,controlled_dgp_random,False,
+mc_random_perm_0181,5 2 3 4 7 0 6 1,monte_carlo_random_permutation,synthetic reversible baseline,,,,192,4,False,controlled_dgp_random,False,
+mc_random_perm_0182,7 4 6 3 0 1 5 2,monte_carlo_random_permutation,synthetic reversible baseline,,,,192,3,False,controlled_dgp_random,False,
+mc_random_perm_0183,5 3 6 0 7 1 2 4,monte_carlo_random_permutation,synthetic reversible baseline,,,,192,2,False,controlled_dgp_random,False,
+mc_random_perm_0184,4 0 1 5 3 7 2 6,monte_carlo_random_permutation,synthetic reversible baseline,,,,384,3,False,controlled_dgp_random,False,
+mc_random_perm_0185,2 3 7 6 5 4 0 1,monte_carlo_random_permutation,synthetic reversible baseline,,,,384,4,False,controlled_dgp_random,False,
+mc_random_perm_0186,1 7 5 3 0 6 2 4,monte_carlo_random_permutation,synthetic reversible baseline,,,,384,3,False,controlled_dgp_random,False,
+mc_random_perm_0187,1 0 6 5 7 3 4 2,monte_carlo_random_permutation,synthetic reversible baseline,,,,192,3,False,controlled_dgp_random,False,
+mc_random_perm_0188,4 3 1 5 2 0 6 7,monte_carlo_random_permutation,synthetic reversible baseline,,,,8,2,False,controlled_dgp_random,False,
+mc_random_perm_0189,0 4 1 2 6 7 5 3,monte_carlo_random_permutation,synthetic reversible baseline,,,,8,2,False,controlled_dgp_random,False,
+mc_random_perm_0190,4 6 7 1 3 5 2 0,monte_carlo_random_permutation,synthetic reversible baseline,,,,8,3,False,controlled_dgp_random,False,
+mc_random_perm_0191,7 2 1 5 0 4 3 6,monte_carlo_random_permutation,synthetic reversible baseline,,,,8,2,False,controlled_dgp_random,False,
+mc_random_perm_0192,2 7 3 1 5 6 0 4,monte_carlo_random_permutation,synthetic reversible baseline,,,,192,4,False,controlled_dgp_random,False,
+mc_random_perm_0193,5 2 3 0 4 6 1 7,monte_carlo_random_permutation,synthetic reversible baseline,,,,192,4,False,controlled_dgp_random,False,
+mc_random_perm_0194,6 7 1 3 5 2 0 4,monte_carlo_random_permutation,synthetic reversible baseline,,,,384,4,False,controlled_dgp_random,False,
+mc_random_perm_0195,5 6 0 2 4 3 1 7,monte_carlo_random_permutation,synthetic reversible baseline,,,,8,3,False,controlled_dgp_random,False,
+mc_random_perm_0196,3 1 7 2 0 6 4 5,monte_carlo_random_permutation,synthetic reversible baseline,,,,192,3,False,controlled_dgp_random,False,
+mc_random_perm_0197,3 0 2 6 4 1 5 7,monte_carlo_random_permutation,synthetic reversible baseline,,,,8,4,False,controlled_dgp_random,False,
+mc_random_perm_0198,0 3 6 4 1 5 7 2,monte_carlo_random_permutation,synthetic reversible baseline,,,,8,4,False,controlled_dgp_random,False,
+mc_random_perm_0199,4 3 6 5 0 2 7 1,monte_carlo_random_permutation,synthetic reversible baseline,,,,192,4,False,controlled_dgp_random,False,
+mc_random_perm_0200,4 6 2 7 0 1 3 5,monte_carlo_random_permutation,synthetic reversible baseline,,,,384,3,False,controlled_dgp_random,False,
+mc_random_perm_0201,5 4 3 1 2 7 0 6,monte_carlo_random_permutation,synthetic reversible baseline,,,,8,2,False,controlled_dgp_random,False,
+mc_random_perm_0202,5 7 4 2 6 1 3 0,monte_carlo_random_permutation,synthetic reversible baseline,,,,8,3,False,controlled_dgp_random,False,
+mc_random_perm_0203,5 6 3 1 7 4 2 0,monte_carlo_random_permutation,synthetic reversible baseline,,,,192,2,False,controlled_dgp_random,False,
+mc_random_perm_0204,4 3 7 5 0 1 2 6,monte_carlo_random_permutation,synthetic reversible baseline,,,,8,2,False,controlled_dgp_random,False,
+mc_random_perm_0205,2 1 0 7 4 3 6 5,monte_carlo_random_permutation,synthetic reversible baseline,,,,192,3,False,controlled_dgp_random,False,
+mc_random_perm_0206,0 5 6 3 4 1 2 7,monte_carlo_random_permutation,synthetic reversible baseline,,,,8,3,False,controlled_dgp_random,False,
+mc_random_perm_0207,5 3 6 2 7 1 4 0,monte_carlo_random_permutation,synthetic reversible baseline,,,,192,3,False,controlled_dgp_random,False,
+mc_random_perm_0208,7 3 6 2 1 0 5 4,monte_carlo_random_permutation,synthetic reversible baseline,,,,8,2,False,controlled_dgp_random,False,
+mc_random_perm_0209,1 6 0 3 4 7 5 2,monte_carlo_random_permutation,synthetic reversible baseline,,,,384,2,False,controlled_dgp_random,False,
+mc_random_perm_0210,1 3 4 0 5 7 2 6,monte_carlo_random_permutation,synthetic reversible baseline,,,,8,2,False,controlled_dgp_random,False,
+mc_random_perm_0211,5 0 4 6 3 7 2 1,monte_carlo_random_permutation,synthetic reversible baseline,,,,192,3,False,controlled_dgp_random,False,
+mc_random_perm_0212,4 3 2 5 0 1 6 7,monte_carlo_random_permutation,synthetic reversible baseline,,,,192,3,False,controlled_dgp_random,False,
+mc_random_perm_0213,4 7 6 1 0 3 2 5,monte_carlo_random_permutation,synthetic reversible baseline,,,,384,3,False,controlled_dgp_random,False,
+mc_random_perm_0214,5 2 7 0 6 4 1 3,monte_carlo_random_permutation,synthetic reversible baseline,,,,8,3,False,controlled_dgp_random,False,
+mc_random_perm_0215,1 4 2 3 0 7 5 6,monte_carlo_random_permutation,synthetic reversible baseline,,,,192,3,False,controlled_dgp_random,False,
+mc_random_perm_0216,2 4 1 5 0 7 3 6,monte_carlo_random_permutation,synthetic reversible baseline,,,,192,3,False,controlled_dgp_random,False,
+mc_random_perm_0217,7 2 1 6 3 4 5 0,monte_carlo_random_permutation,synthetic reversible baseline,,,,8,3,False,controlled_dgp_random,False,
+mc_random_perm_0218,3 0 5 7 2 4 1 6,monte_carlo_random_permutation,synthetic reversible baseline,,,,8,2,False,controlled_dgp_random,False,
+mc_random_perm_0219,6 7 4 2 3 0 1 5,monte_carlo_random_permutation,synthetic reversible baseline,,,,192,2,False,controlled_dgp_random,False,
+mc_random_perm_0220,2 0 4 7 3 1 6 5,monte_carlo_random_permutation,synthetic reversible baseline,,,,384,3,False,controlled_dgp_random,False,
+mc_random_perm_0221,3 7 5 4 0 2 6 1,monte_carlo_random_permutation,synthetic reversible baseline,,,,384,3,False,controlled_dgp_random,False,
+mc_random_perm_0222,6 0 1 3 2 7 4 5,monte_carlo_random_permutation,synthetic reversible baseline,,,,192,4,False,controlled_dgp_random,False,
+mc_random_perm_0223,5 4 1 7 6 3 2 0,monte_carlo_random_permutation,synthetic reversible baseline,,,,8,2,False,controlled_dgp_random,False,
+mc_random_perm_0224,7 3 5 0 1 2 4 6,monte_carlo_random_permutation,synthetic reversible baseline,,,,8,3,False,controlled_dgp_random,False,
+mc_random_perm_0225,5 3 0 7 6 4 1 2,monte_carlo_random_permutation,synthetic reversible baseline,,,,384,3,False,controlled_dgp_random,False,
+mc_random_perm_0226,3 0 2 5 6 1 7 4,monte_carlo_random_permutation,synthetic reversible baseline,,,,8,3,False,controlled_dgp_random,False,
+mc_random_perm_0227,3 2 4 7 0 1 6 5,monte_carlo_random_permutation,synthetic reversible baseline,,,,192,3,False,controlled_dgp_random,False,
+mc_random_perm_0228,4 2 3 0 7 6 1 5,monte_carlo_random_permutation,synthetic reversible baseline,,,,384,3,False,controlled_dgp_random,False,
+mc_random_perm_0229,5 4 7 1 2 6 3 0,monte_carlo_random_permutation,synthetic reversible baseline,,,,384,3,False,controlled_dgp_random,False,
+mc_random_perm_0230,1 0 5 7 3 2 4 6,monte_carlo_random_permutation,synthetic reversible baseline,,,,384,2,False,controlled_dgp_random,False,
+mc_random_perm_0231,6 1 5 0 7 2 4 3,monte_carlo_random_permutation,synthetic reversible baseline,,,,384,3,False,controlled_dgp_random,False,
+mc_random_perm_0232,4 3 1 5 2 0 6 7,monte_carlo_random_permutation,synthetic reversible baseline,,,,384,2,False,controlled_dgp_random,False,
+mc_random_perm_0233,5 0 2 6 7 4 1 3,monte_carlo_random_permutation,synthetic reversible baseline,,,,384,3,False,controlled_dgp_random,False,
+mc_random_perm_0234,4 0 5 2 7 6 3 1,monte_carlo_random_permutation,synthetic reversible baseline,,,,8,2,False,controlled_dgp_random,False,
+mc_random_perm_0235,3 0 2 7 6 1 5 4,monte_carlo_random_permutation,synthetic reversible baseline,,,,384,4,False,controlled_dgp_random,False,
+mc_random_perm_0236,1 7 3 2 5 4 0 6,monte_carlo_random_permutation,synthetic reversible baseline,,,,384,4,False,controlled_dgp_random,False,
+mc_random_perm_0237,0 2 1 5 3 6 7 4,monte_carlo_random_permutation,synthetic reversible baseline,,,,384,2,False,controlled_dgp_random,False,
+mc_random_perm_0238,1 4 2 5 6 7 3 0,monte_carlo_random_permutation,synthetic reversible baseline,,,,192,4,False,controlled_dgp_random,False,
+mc_random_perm_0239,0 6 2 5 4 7 3 1,monte_carlo_random_permutation,synthetic reversible baseline,,,,8,2,False,controlled_dgp_random,False,
+mc_random_perm_0240,2 4 3 6 1 7 0 5,monte_carlo_random_permutation,synthetic reversible baseline,,,,192,2,False,controlled_dgp_random,False,
+mc_random_perm_0241,6 7 4 2 0 3 1 5,monte_carlo_random_permutation,synthetic reversible baseline,,,,8,2,False,controlled_dgp_random,False,
+mc_random_perm_0242,0 1 6 4 7 2 3 5,monte_carlo_random_permutation,synthetic reversible baseline,,,,8,4,False,controlled_dgp_random,False,
+mc_random_perm_0243,3 1 4 0 7 5 2 6,monte_carlo_random_permutation,synthetic reversible baseline,,,,8,3,False,controlled_dgp_random,False,
+mc_random_perm_0244,1 3 4 5 6 7 2 0,monte_carlo_random_permutation,synthetic reversible baseline,,,,8,2,False,controlled_dgp_random,False,
+mc_random_perm_0245,6 2 1 5 7 3 4 0,monte_carlo_random_permutation,synthetic reversible baseline,,,,192,4,False,controlled_dgp_random,False,
+mc_random_perm_0246,4 0 7 1 5 2 6 3,monte_carlo_random_permutation,synthetic reversible baseline,,,,384,3,False,controlled_dgp_random,False,
+mc_random_perm_0247,5 6 2 4 7 3 1 0,monte_carlo_random_permutation,synthetic reversible baseline,,,,192,3,False,controlled_dgp_random,False,
+mc_random_perm_0248,1 0 2 4 5 6 3 7,monte_carlo_random_permutation,synthetic reversible baseline,,,,192,2,False,controlled_dgp_random,False,
+mc_random_perm_0249,5 3 6 7 0 1 2 4,monte_carlo_random_permutation,synthetic reversible baseline,,,,384,2,False,controlled_dgp_random,False,
+mc_random_perm_0250,7 2 0 4 1 5 6 3,monte_carlo_random_permutation,synthetic reversible baseline,,,,192,3,False,controlled_dgp_random,False,
+mc_random_perm_0251,7 1 5 4 3 2 0 6,monte_carlo_random_permutation,synthetic reversible baseline,,,,8,2,False,controlled_dgp_random,False,
+mc_random_perm_0252,3 1 6 5 2 0 7 4,monte_carlo_random_permutation,synthetic reversible baseline,,,,192,3,False,controlled_dgp_random,False,
+mc_random_perm_0253,6 1 5 3 7 2 4 0,monte_carlo_random_permutation,synthetic reversible baseline,,,,192,4,False,controlled_dgp_random,False,
+mc_random_perm_0254,2 7 4 1 3 5 0 6,monte_carlo_random_permutation,synthetic reversible baseline,,,,8,3,False,controlled_dgp_random,False,
+mc_random_perm_0255,2 3 4 1 6 5 0 7,monte_carlo_random_permutation,synthetic reversible baseline,,,,8,3,False,controlled_dgp_random,False,
+mc_weak_0000,0 1 2 3 0 1 2 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,4,2,False,controlled_dgp_weak,False,
+mc_weak_0001,0 0 1 1 2 2 3 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,2,1,False,controlled_dgp_weak,False,
+mc_weak_0002,6 6 6 6 6 6 6 6,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,2,1,False,controlled_dgp_weak,False,
+mc_weak_0003,0 0 6 6 6 4 6 0,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,8,1,False,controlled_dgp_weak,False,
+mc_weak_0004,0 1 2 3 0 1 2 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,1,1,False,controlled_dgp_weak,False,
+mc_weak_0005,0 0 1 1 2 2 3 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,1,2,False,controlled_dgp_weak,False,
+mc_weak_0006,6 6 6 6 6 6 6 6,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,1,2,False,controlled_dgp_weak,False,
+mc_weak_0007,4 5 6 1 7 4 7 0,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,1,0,False,controlled_dgp_weak,False,
+mc_weak_0008,0 1 2 3 0 1 2 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,1,0,False,controlled_dgp_weak,False,
+mc_weak_0009,0 0 1 1 2 2 3 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,2,1,False,controlled_dgp_weak,False,
+mc_weak_0010,0 0 0 0 0 0 0 0,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,1,0,False,controlled_dgp_weak,False,
+mc_weak_0011,6 7 6 7 7 1 4 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,8,0,False,controlled_dgp_weak,False,
+mc_weak_0012,0 1 2 3 0 1 2 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,4,0,False,controlled_dgp_weak,False,
+mc_weak_0013,0 0 1 1 2 2 3 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,1,2,False,controlled_dgp_weak,False,
+mc_weak_0014,3 3 3 3 3 3 3 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,2,2,False,controlled_dgp_weak,False,
+mc_weak_0015,5 6 3 0 3 3 1 7,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,1,0,False,controlled_dgp_weak,False,
+mc_weak_0016,0 1 2 3 0 1 2 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,1,2,False,controlled_dgp_weak,False,
+mc_weak_0017,0 0 1 1 2 2 3 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,2,1,False,controlled_dgp_weak,False,
+mc_weak_0018,2 2 2 2 2 2 2 2,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,2,2,False,controlled_dgp_weak,False,
+mc_weak_0019,3 2 6 6 7 3 5 0,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,1,1,False,controlled_dgp_weak,False,
+mc_weak_0020,0 1 2 3 0 1 2 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,2,1,False,controlled_dgp_weak,False,
+mc_weak_0021,0 0 1 1 2 2 3 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,2,0,False,controlled_dgp_weak,False,
+mc_weak_0022,4 4 4 4 4 4 4 4,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,8,2,False,controlled_dgp_weak,False,
+mc_weak_0023,3 7 3 6 2 7 1 5,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,8,0,False,controlled_dgp_weak,False,
+mc_weak_0024,0 1 2 3 0 1 2 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,1,2,False,controlled_dgp_weak,False,
+mc_weak_0025,0 0 1 1 2 2 3 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,1,0,False,controlled_dgp_weak,False,
+mc_weak_0026,1 1 1 1 1 1 1 1,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,8,0,False,controlled_dgp_weak,False,
+mc_weak_0027,0 7 7 1 3 7 5 7,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,4,1,False,controlled_dgp_weak,False,
+mc_weak_0028,0 1 2 3 0 1 2 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,1,2,False,controlled_dgp_weak,False,
+mc_weak_0029,0 0 1 1 2 2 3 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,1,2,False,controlled_dgp_weak,False,
+mc_weak_0030,7 7 7 7 7 7 7 7,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,1,1,False,controlled_dgp_weak,False,
+mc_weak_0031,1 5 3 2 5 5 4 5,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,2,1,False,controlled_dgp_weak,False,
+mc_weak_0032,0 1 2 3 0 1 2 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,8,0,False,controlled_dgp_weak,False,
+mc_weak_0033,0 0 1 1 2 2 3 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,8,2,False,controlled_dgp_weak,False,
+mc_weak_0034,4 4 4 4 4 4 4 4,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,1,1,False,controlled_dgp_weak,False,
+mc_weak_0035,0 2 5 6 7 5 6 4,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,2,2,False,controlled_dgp_weak,False,
+mc_weak_0036,0 1 2 3 0 1 2 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,8,2,False,controlled_dgp_weak,False,
+mc_weak_0037,0 0 1 1 2 2 3 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,4,2,False,controlled_dgp_weak,False,
+mc_weak_0038,5 5 5 5 5 5 5 5,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,8,0,False,controlled_dgp_weak,False,
+mc_weak_0039,5 6 2 5 7 1 5 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,1,1,False,controlled_dgp_weak,False,
+mc_weak_0040,0 1 2 3 0 1 2 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,8,0,False,controlled_dgp_weak,False,
+mc_weak_0041,0 0 1 1 2 2 3 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,8,0,False,controlled_dgp_weak,False,
+mc_weak_0042,0 0 0 0 0 0 0 0,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,2,0,False,controlled_dgp_weak,False,
+mc_weak_0043,0 7 6 2 2 3 6 1,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,2,1,False,controlled_dgp_weak,False,
+mc_weak_0044,0 1 2 3 0 1 2 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,4,2,False,controlled_dgp_weak,False,
+mc_weak_0045,0 0 1 1 2 2 3 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,1,2,False,controlled_dgp_weak,False,
+mc_weak_0046,4 4 4 4 4 4 4 4,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,1,0,False,controlled_dgp_weak,False,
+mc_weak_0047,5 2 2 5 3 1 0 5,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,1,2,False,controlled_dgp_weak,False,
+mc_weak_0048,0 1 2 3 0 1 2 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,2,1,False,controlled_dgp_weak,False,
+mc_weak_0049,0 0 1 1 2 2 3 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,8,0,False,controlled_dgp_weak,False,
+mc_weak_0050,1 1 1 1 1 1 1 1,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,1,1,False,controlled_dgp_weak,False,
+mc_weak_0051,3 4 1 2 2 1 5 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,2,0,False,controlled_dgp_weak,False,
+mc_weak_0052,0 1 2 3 0 1 2 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,2,1,False,controlled_dgp_weak,False,
+mc_weak_0053,0 0 1 1 2 2 3 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,2,0,False,controlled_dgp_weak,False,
+mc_weak_0054,1 1 1 1 1 1 1 1,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,8,2,False,controlled_dgp_weak,False,
+mc_weak_0055,7 0 2 1 2 4 5 5,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,1,1,False,controlled_dgp_weak,False,
+mc_weak_0056,0 1 2 3 0 1 2 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,4,2,False,controlled_dgp_weak,False,
+mc_weak_0057,0 0 1 1 2 2 3 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,1,1,False,controlled_dgp_weak,False,
+mc_weak_0058,1 1 1 1 1 1 1 1,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,8,2,False,controlled_dgp_weak,False,
+mc_weak_0059,0 1 5 5 0 4 6 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,1,1,False,controlled_dgp_weak,False,
+mc_weak_0060,0 1 2 3 0 1 2 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,4,1,False,controlled_dgp_weak,False,
+mc_weak_0061,0 0 1 1 2 2 3 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,2,2,False,controlled_dgp_weak,False,
+mc_weak_0062,6 6 6 6 6 6 6 6,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,2,1,False,controlled_dgp_weak,False,
+mc_weak_0063,7 1 4 3 7 1 0 1,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,4,0,False,controlled_dgp_weak,False,
+mc_weak_0064,0 1 2 3 0 1 2 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,1,1,False,controlled_dgp_weak,False,
+mc_weak_0065,0 0 1 1 2 2 3 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,8,0,False,controlled_dgp_weak,False,
+mc_weak_0066,6 6 6 6 6 6 6 6,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,2,2,False,controlled_dgp_weak,False,
+mc_weak_0067,3 0 4 4 1 3 5 6,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,1,2,False,controlled_dgp_weak,False,
+mc_weak_0068,0 1 2 3 0 1 2 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,2,1,False,controlled_dgp_weak,False,
+mc_weak_0069,0 0 1 1 2 2 3 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,4,0,False,controlled_dgp_weak,False,
+mc_weak_0070,3 3 3 3 3 3 3 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,8,1,False,controlled_dgp_weak,False,
+mc_weak_0071,2 3 6 1 1 1 4 4,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,4,1,False,controlled_dgp_weak,False,
+mc_weak_0072,0 1 2 3 0 1 2 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,1,2,False,controlled_dgp_weak,False,
+mc_weak_0073,0 0 1 1 2 2 3 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,2,1,False,controlled_dgp_weak,False,
+mc_weak_0074,1 1 1 1 1 1 1 1,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,2,0,False,controlled_dgp_weak,False,
+mc_weak_0075,5 4 5 6 5 1 3 6,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,4,2,False,controlled_dgp_weak,False,
+mc_weak_0076,0 1 2 3 0 1 2 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,1,0,False,controlled_dgp_weak,False,
+mc_weak_0077,0 0 1 1 2 2 3 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,2,2,False,controlled_dgp_weak,False,
+mc_weak_0078,3 3 3 3 3 3 3 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,2,2,False,controlled_dgp_weak,False,
+mc_weak_0079,5 1 7 5 1 0 6 0,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,2,2,False,controlled_dgp_weak,False,
+mc_weak_0080,0 1 2 3 0 1 2 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,8,1,False,controlled_dgp_weak,False,
+mc_weak_0081,0 0 1 1 2 2 3 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,8,2,False,controlled_dgp_weak,False,
+mc_weak_0082,2 2 2 2 2 2 2 2,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,8,1,False,controlled_dgp_weak,False,
+mc_weak_0083,0 2 4 3 5 2 0 7,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,4,0,False,controlled_dgp_weak,False,
+mc_weak_0084,0 1 2 3 0 1 2 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,1,1,False,controlled_dgp_weak,False,
+mc_weak_0085,0 0 1 1 2 2 3 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,2,2,False,controlled_dgp_weak,False,
+mc_weak_0086,3 3 3 3 3 3 3 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,8,2,False,controlled_dgp_weak,False,
+mc_weak_0087,4 5 7 1 1 1 2 2,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,8,0,False,controlled_dgp_weak,False,
+mc_weak_0088,0 1 2 3 0 1 2 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,1,2,False,controlled_dgp_weak,False,
+mc_weak_0089,0 0 1 1 2 2 3 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,1,0,False,controlled_dgp_weak,False,
+mc_weak_0090,0 0 0 0 0 0 0 0,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,1,1,False,controlled_dgp_weak,False,
+mc_weak_0091,1 4 5 0 0 6 2 6,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,8,0,False,controlled_dgp_weak,False,
+mc_weak_0092,0 1 2 3 0 1 2 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,4,0,False,controlled_dgp_weak,False,
+mc_weak_0093,0 0 1 1 2 2 3 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,4,1,False,controlled_dgp_weak,False,
+mc_weak_0094,6 6 6 6 6 6 6 6,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,2,1,False,controlled_dgp_weak,False,
+mc_weak_0095,0 0 6 7 5 4 2 2,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,2,0,False,controlled_dgp_weak,False,
+mc_weak_0096,0 1 2 3 0 1 2 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,1,1,False,controlled_dgp_weak,False,
+mc_weak_0097,0 0 1 1 2 2 3 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,2,0,False,controlled_dgp_weak,False,
+mc_weak_0098,6 6 6 6 6 6 6 6,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,2,2,False,controlled_dgp_weak,False,
+mc_weak_0099,1 3 2 2 4 6 2 6,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,8,2,False,controlled_dgp_weak,False,
+mc_weak_0100,0 1 2 3 0 1 2 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,4,1,False,controlled_dgp_weak,False,
+mc_weak_0101,0 0 1 1 2 2 3 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,2,1,False,controlled_dgp_weak,False,
+mc_weak_0102,0 0 0 0 0 0 0 0,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,8,2,False,controlled_dgp_weak,False,
+mc_weak_0103,5 6 2 6 3 5 2 1,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,8,1,False,controlled_dgp_weak,False,
+mc_weak_0104,0 1 2 3 0 1 2 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,1,1,False,controlled_dgp_weak,False,
+mc_weak_0105,0 0 1 1 2 2 3 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,2,2,False,controlled_dgp_weak,False,
+mc_weak_0106,3 3 3 3 3 3 3 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,2,2,False,controlled_dgp_weak,False,
+mc_weak_0107,2 4 7 4 7 7 0 2,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,8,2,False,controlled_dgp_weak,False,
+mc_weak_0108,0 1 2 3 0 1 2 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,1,1,False,controlled_dgp_weak,False,
+mc_weak_0109,0 0 1 1 2 2 3 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,2,0,False,controlled_dgp_weak,False,
+mc_weak_0110,6 6 6 6 6 6 6 6,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,2,0,False,controlled_dgp_weak,False,
+mc_weak_0111,5 1 4 1 3 4 1 4,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,2,0,False,controlled_dgp_weak,False,
+mc_weak_0112,0 1 2 3 0 1 2 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,8,0,False,controlled_dgp_weak,False,
+mc_weak_0113,0 0 1 1 2 2 3 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,2,0,False,controlled_dgp_weak,False,
+mc_weak_0114,4 4 4 4 4 4 4 4,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,2,2,False,controlled_dgp_weak,False,
+mc_weak_0115,6 1 7 1 4 6 0 5,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,8,1,False,controlled_dgp_weak,False,
+mc_weak_0116,0 1 2 3 0 1 2 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,2,1,False,controlled_dgp_weak,False,
+mc_weak_0117,0 0 1 1 2 2 3 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,1,1,False,controlled_dgp_weak,False,
+mc_weak_0118,1 1 1 1 1 1 1 1,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,8,2,False,controlled_dgp_weak,False,
+mc_weak_0119,5 5 4 4 0 0 6 0,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,1,2,False,controlled_dgp_weak,False,
+mc_weak_0120,0 1 2 3 0 1 2 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,4,2,False,controlled_dgp_weak,False,
+mc_weak_0121,0 0 1 1 2 2 3 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,8,1,False,controlled_dgp_weak,False,
+mc_weak_0122,1 1 1 1 1 1 1 1,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,4,0,False,controlled_dgp_weak,False,
+mc_weak_0123,0 0 2 0 1 5 2 2,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,1,2,False,controlled_dgp_weak,False,
+mc_weak_0124,0 1 2 3 0 1 2 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,8,0,False,controlled_dgp_weak,False,
+mc_weak_0125,0 0 1 1 2 2 3 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,1,1,False,controlled_dgp_weak,False,
+mc_weak_0126,4 4 4 4 4 4 4 4,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,1,0,False,controlled_dgp_weak,False,
+mc_weak_0127,0 5 2 7 7 6 3 4,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,4,2,False,controlled_dgp_weak,False,
+mc_weak_0128,0 1 2 3 0 1 2 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,1,0,False,controlled_dgp_weak,False,
+mc_weak_0129,0 0 1 1 2 2 3 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,1,1,False,controlled_dgp_weak,False,
+mc_weak_0130,6 6 6 6 6 6 6 6,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,8,1,False,controlled_dgp_weak,False,
+mc_weak_0131,7 4 1 5 4 4 5 2,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,1,1,False,controlled_dgp_weak,False,
+mc_weak_0132,0 1 2 3 0 1 2 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,2,1,False,controlled_dgp_weak,False,
+mc_weak_0133,0 0 1 1 2 2 3 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,2,0,False,controlled_dgp_weak,False,
+mc_weak_0134,1 1 1 1 1 1 1 1,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,8,1,False,controlled_dgp_weak,False,
+mc_weak_0135,7 2 2 0 4 6 2 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,8,2,False,controlled_dgp_weak,False,
+mc_weak_0136,0 1 2 3 0 1 2 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,4,2,False,controlled_dgp_weak,False,
+mc_weak_0137,0 0 1 1 2 2 3 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,1,0,False,controlled_dgp_weak,False,
+mc_weak_0138,2 2 2 2 2 2 2 2,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,4,1,False,controlled_dgp_weak,False,
+mc_weak_0139,2 3 3 5 7 2 3 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,1,1,False,controlled_dgp_weak,False,
+mc_weak_0140,0 1 2 3 0 1 2 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,8,2,False,controlled_dgp_weak,False,
+mc_weak_0141,0 0 1 1 2 2 3 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,2,0,False,controlled_dgp_weak,False,
+mc_weak_0142,4 4 4 4 4 4 4 4,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,4,1,False,controlled_dgp_weak,False,
+mc_weak_0143,5 4 2 3 2 4 4 7,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,4,2,False,controlled_dgp_weak,False,
+mc_weak_0144,0 1 2 3 0 1 2 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,2,2,False,controlled_dgp_weak,False,
+mc_weak_0145,0 0 1 1 2 2 3 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,8,1,False,controlled_dgp_weak,False,
+mc_weak_0146,5 5 5 5 5 5 5 5,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,2,1,False,controlled_dgp_weak,False,
+mc_weak_0147,7 2 4 5 7 1 3 7,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,2,0,False,controlled_dgp_weak,False,
+mc_weak_0148,0 1 2 3 0 1 2 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,1,0,False,controlled_dgp_weak,False,
+mc_weak_0149,0 0 1 1 2 2 3 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,8,2,False,controlled_dgp_weak,False,
+mc_weak_0150,2 2 2 2 2 2 2 2,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,8,1,False,controlled_dgp_weak,False,
+mc_weak_0151,0 3 0 7 1 0 0 0,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,4,1,False,controlled_dgp_weak,False,
+mc_weak_0152,0 1 2 3 0 1 2 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,1,1,False,controlled_dgp_weak,False,
+mc_weak_0153,0 0 1 1 2 2 3 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,2,2,False,controlled_dgp_weak,False,
+mc_weak_0154,4 4 4 4 4 4 4 4,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,1,0,False,controlled_dgp_weak,False,
+mc_weak_0155,4 7 7 0 3 5 5 0,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,8,1,False,controlled_dgp_weak,False,
+mc_weak_0156,0 1 2 3 0 1 2 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,4,2,False,controlled_dgp_weak,False,
+mc_weak_0157,0 0 1 1 2 2 3 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,8,0,False,controlled_dgp_weak,False,
+mc_weak_0158,5 5 5 5 5 5 5 5,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,4,0,False,controlled_dgp_weak,False,
+mc_weak_0159,2 1 6 3 5 6 5 6,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,2,1,False,controlled_dgp_weak,False,
+mc_weak_0160,0 1 2 3 0 1 2 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,2,2,False,controlled_dgp_weak,False,
+mc_weak_0161,0 0 1 1 2 2 3 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,1,1,False,controlled_dgp_weak,False,
+mc_weak_0162,2 2 2 2 2 2 2 2,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,2,2,False,controlled_dgp_weak,False,
+mc_weak_0163,3 4 4 4 4 1 1 4,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,2,0,False,controlled_dgp_weak,False,
+mc_weak_0164,0 1 2 3 0 1 2 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,1,2,False,controlled_dgp_weak,False,
+mc_weak_0165,0 0 1 1 2 2 3 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,4,1,False,controlled_dgp_weak,False,
+mc_weak_0166,2 2 2 2 2 2 2 2,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,4,0,False,controlled_dgp_weak,False,
+mc_weak_0167,5 5 4 6 5 3 5 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,1,2,False,controlled_dgp_weak,False,
+mc_weak_0168,0 1 2 3 0 1 2 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,8,0,False,controlled_dgp_weak,False,
+mc_weak_0169,0 0 1 1 2 2 3 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,1,1,False,controlled_dgp_weak,False,
+mc_weak_0170,5 5 5 5 5 5 5 5,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,2,1,False,controlled_dgp_weak,False,
+mc_weak_0171,5 7 7 5 0 5 1 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,2,1,False,controlled_dgp_weak,False,
+mc_weak_0172,0 1 2 3 0 1 2 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,2,1,False,controlled_dgp_weak,False,
+mc_weak_0173,0 0 1 1 2 2 3 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,2,2,False,controlled_dgp_weak,False,
+mc_weak_0174,4 4 4 4 4 4 4 4,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,2,0,False,controlled_dgp_weak,False,
+mc_weak_0175,6 2 7 0 7 6 1 1,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,1,0,False,controlled_dgp_weak,False,
+mc_weak_0176,0 1 2 3 0 1 2 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,8,2,False,controlled_dgp_weak,False,
+mc_weak_0177,0 0 1 1 2 2 3 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,4,1,False,controlled_dgp_weak,False,
+mc_weak_0178,3 3 3 3 3 3 3 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,2,1,False,controlled_dgp_weak,False,
+mc_weak_0179,1 5 4 3 3 6 4 1,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,4,0,False,controlled_dgp_weak,False,
+mc_weak_0180,0 1 2 3 0 1 2 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,2,1,False,controlled_dgp_weak,False,
+mc_weak_0181,0 0 1 1 2 2 3 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,4,0,False,controlled_dgp_weak,False,
+mc_weak_0182,2 2 2 2 2 2 2 2,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,8,1,False,controlled_dgp_weak,False,
+mc_weak_0183,3 7 3 0 7 4 2 0,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,2,2,False,controlled_dgp_weak,False,
+mc_weak_0184,0 1 2 3 0 1 2 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,4,0,False,controlled_dgp_weak,False,
+mc_weak_0185,0 0 1 1 2 2 3 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,2,0,False,controlled_dgp_weak,False,
+mc_weak_0186,7 7 7 7 7 7 7 7,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,8,2,False,controlled_dgp_weak,False,
+mc_weak_0187,2 3 4 0 6 0 4 7,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,1,2,False,controlled_dgp_weak,False,
+mc_weak_0188,0 1 2 3 0 1 2 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,4,1,False,controlled_dgp_weak,False,
+mc_weak_0189,0 0 1 1 2 2 3 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,2,0,False,controlled_dgp_weak,False,
+mc_weak_0190,1 1 1 1 1 1 1 1,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,4,2,False,controlled_dgp_weak,False,
+mc_weak_0191,7 6 5 0 7 7 6 0,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,8,0,False,controlled_dgp_weak,False,
+mc_weak_0192,0 1 2 3 0 1 2 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,8,2,False,controlled_dgp_weak,False,
+mc_weak_0193,0 0 1 1 2 2 3 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,1,1,False,controlled_dgp_weak,False,
+mc_weak_0194,4 4 4 4 4 4 4 4,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,8,0,False,controlled_dgp_weak,False,
+mc_weak_0195,6 1 2 7 6 1 6 5,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,2,2,False,controlled_dgp_weak,False,
+mc_weak_0196,0 1 2 3 0 1 2 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,4,2,False,controlled_dgp_weak,False,
+mc_weak_0197,0 0 1 1 2 2 3 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,4,0,False,controlled_dgp_weak,False,
+mc_weak_0198,7 7 7 7 7 7 7 7,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,1,1,False,controlled_dgp_weak,False,
+mc_weak_0199,0 3 7 5 7 2 2 7,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,2,2,False,controlled_dgp_weak,False,
+mc_weak_0200,0 1 2 3 0 1 2 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,4,1,False,controlled_dgp_weak,False,
+mc_weak_0201,0 0 1 1 2 2 3 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,2,2,False,controlled_dgp_weak,False,
+mc_weak_0202,3 3 3 3 3 3 3 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,1,0,False,controlled_dgp_weak,False,
+mc_weak_0203,2 6 4 5 6 5 1 7,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,4,0,False,controlled_dgp_weak,False,
+mc_weak_0204,0 1 2 3 0 1 2 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,8,1,False,controlled_dgp_weak,False,
+mc_weak_0205,0 0 1 1 2 2 3 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,8,1,False,controlled_dgp_weak,False,
+mc_weak_0206,4 4 4 4 4 4 4 4,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,1,0,False,controlled_dgp_weak,False,
+mc_weak_0207,0 3 1 7 2 2 3 7,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,4,0,False,controlled_dgp_weak,False,
+mc_weak_0208,0 1 2 3 0 1 2 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,4,2,False,controlled_dgp_weak,False,
+mc_weak_0209,0 0 1 1 2 2 3 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,2,0,False,controlled_dgp_weak,False,
+mc_weak_0210,7 7 7 7 7 7 7 7,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,1,1,False,controlled_dgp_weak,False,
+mc_weak_0211,5 1 7 3 1 7 1 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,1,1,False,controlled_dgp_weak,False,
+mc_weak_0212,0 1 2 3 0 1 2 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,4,1,False,controlled_dgp_weak,False,
+mc_weak_0213,0 0 1 1 2 2 3 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,1,0,False,controlled_dgp_weak,False,
+mc_weak_0214,7 7 7 7 7 7 7 7,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,8,1,False,controlled_dgp_weak,False,
+mc_weak_0215,4 3 0 3 1 1 4 1,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,1,0,False,controlled_dgp_weak,False,
+mc_weak_0216,0 1 2 3 0 1 2 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,8,1,False,controlled_dgp_weak,False,
+mc_weak_0217,0 0 1 1 2 2 3 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,4,1,False,controlled_dgp_weak,False,
+mc_weak_0218,0 0 0 0 0 0 0 0,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,1,0,False,controlled_dgp_weak,False,
+mc_weak_0219,2 2 2 6 0 0 3 4,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,8,1,False,controlled_dgp_weak,False,
+mc_weak_0220,0 1 2 3 0 1 2 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,4,1,False,controlled_dgp_weak,False,
+mc_weak_0221,0 0 1 1 2 2 3 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,8,0,False,controlled_dgp_weak,False,
+mc_weak_0222,6 6 6 6 6 6 6 6,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,8,2,False,controlled_dgp_weak,False,
+mc_weak_0223,0 0 0 3 7 0 2 6,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,1,1,False,controlled_dgp_weak,False,
+mc_weak_0224,0 1 2 3 0 1 2 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,2,0,False,controlled_dgp_weak,False,
+mc_weak_0225,0 0 1 1 2 2 3 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,4,2,False,controlled_dgp_weak,False,
+mc_weak_0226,5 5 5 5 5 5 5 5,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,4,1,False,controlled_dgp_weak,False,
+mc_weak_0227,7 5 5 4 5 4 1 7,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,4,0,False,controlled_dgp_weak,False,
+mc_weak_0228,0 1 2 3 0 1 2 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,2,2,False,controlled_dgp_weak,False,
+mc_weak_0229,0 0 1 1 2 2 3 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,1,1,False,controlled_dgp_weak,False,
+mc_weak_0230,7 7 7 7 7 7 7 7,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,1,0,False,controlled_dgp_weak,False,
+mc_weak_0231,6 1 3 5 7 0 4 7,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,4,2,False,controlled_dgp_weak,False,
+mc_weak_0232,0 1 2 3 0 1 2 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,1,0,False,controlled_dgp_weak,False,
+mc_weak_0233,0 0 1 1 2 2 3 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,4,2,False,controlled_dgp_weak,False,
+mc_weak_0234,2 2 2 2 2 2 2 2,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,4,2,False,controlled_dgp_weak,False,
+mc_weak_0235,1 0 1 3 2 0 5 5,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,8,2,False,controlled_dgp_weak,False,
+mc_weak_0236,0 1 2 3 0 1 2 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,1,2,False,controlled_dgp_weak,False,
+mc_weak_0237,0 0 1 1 2 2 3 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,4,1,False,controlled_dgp_weak,False,
+mc_weak_0238,2 2 2 2 2 2 2 2,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,4,0,False,controlled_dgp_weak,False,
+mc_weak_0239,4 6 7 0 6 1 5 0,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,4,2,False,controlled_dgp_weak,False,
+mc_weak_0240,0 1 2 3 0 1 2 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,4,0,False,controlled_dgp_weak,False,
+mc_weak_0241,0 0 1 1 2 2 3 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,2,1,False,controlled_dgp_weak,False,
+mc_weak_0242,7 7 7 7 7 7 7 7,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,8,0,False,controlled_dgp_weak,False,
+mc_weak_0243,4 6 6 6 2 6 3 0,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,4,1,False,controlled_dgp_weak,False,
+mc_weak_0244,0 1 2 3 0 1 2 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,8,2,False,controlled_dgp_weak,False,
+mc_weak_0245,0 0 1 1 2 2 3 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,8,2,False,controlled_dgp_weak,False,
+mc_weak_0246,0 0 0 0 0 0 0 0,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,8,0,False,controlled_dgp_weak,False,
+mc_weak_0247,2 1 1 7 4 7 4 2,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,2,1,False,controlled_dgp_weak,False,
+mc_weak_0248,0 1 2 3 0 1 2 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,2,2,False,controlled_dgp_weak,False,
+mc_weak_0249,0 0 1 1 2 2 3 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,2,2,False,controlled_dgp_weak,False,
+mc_weak_0250,7 7 7 7 7 7 7 7,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,4,2,False,controlled_dgp_weak,False,
+mc_weak_0251,4 4 7 4 5 6 5 4,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,1,0,False,controlled_dgp_weak,False,
+mc_weak_0252,0 1 2 3 0 1 2 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,8,1,False,controlled_dgp_weak,False,
+mc_weak_0253,0 0 1 1 2 2 3 3,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,8,2,False,controlled_dgp_weak,False,
+mc_weak_0254,5 5 5 5 5 5 5 5,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,2,2,False,controlled_dgp_weak,False,
+mc_weak_0255,5 7 3 1 2 3 0 1,monte_carlo_weak_operation,synthetic defective/non-bijective baseline,,,,4,1,False,controlled_dgp_weak,False,
+mc_borderline_0000,3 1 2 4 5 0 7 6,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,8,4,False,controlled_dgp_borderline,False,
+mc_borderline_0001,0 3 2 5 4 1 6 7,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,192,3,False,controlled_dgp_borderline,False,
+mc_borderline_0002,0 3 6 5 7 2 1 4,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,8,3,False,controlled_dgp_borderline,False,
+mc_borderline_0003,5 3 6 4 7 2 1 0,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,8,3,False,controlled_dgp_borderline,False,
+mc_borderline_0004,0 1 6 4 3 7 2 5,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,8,4,False,controlled_dgp_borderline,False,
+mc_borderline_0005,0 2 1 4 7 6 3 5,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,192,2,False,controlled_dgp_borderline,False,
+mc_borderline_0006,3 1 2 5 4 7 0 6,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,384,2,False,controlled_dgp_borderline,False,
+mc_borderline_0007,0 3 6 5 4 2 1 7,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,384,2,False,controlled_dgp_borderline,False,
+mc_borderline_0008,0 5 2 3 4 6 7 1,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,384,2,False,controlled_dgp_borderline,False,
+mc_borderline_0009,3 6 4 7 5 1 0 2,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,8,4,False,controlled_dgp_borderline,False,
+mc_borderline_0010,0 1 4 3 6 7 2 5,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,384,3,False,controlled_dgp_borderline,False,
+mc_borderline_0011,0 6 2 3 4 7 1 5,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,192,4,False,controlled_dgp_borderline,False,
+mc_borderline_0012,7 1 2 3 4 5 0 6,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,8,2,False,controlled_dgp_borderline,False,
+mc_borderline_0013,0 1 7 6 4 3 2 5,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,192,3,False,controlled_dgp_borderline,False,
+mc_borderline_0014,0 3 2 1 4 7 6 5,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,8,2,False,controlled_dgp_borderline,False,
+mc_borderline_0015,7 3 6 4 2 1 0 5,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,192,3,False,controlled_dgp_borderline,False,
+mc_borderline_0016,0 1 2 3 4 7 6 5,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,8,2,False,controlled_dgp_borderline,False,
+mc_borderline_0017,0 2 6 5 3 7 1 4,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,192,2,False,controlled_dgp_borderline,False,
+mc_borderline_0018,2 1 6 5 4 3 0 7,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,8,3,False,controlled_dgp_borderline,False,
+mc_borderline_0019,0 3 4 5 2 1 6 7,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,192,3,False,controlled_dgp_borderline,False,
+mc_borderline_0020,0 2 6 7 4 5 1 3,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,192,4,False,controlled_dgp_borderline,False,
+mc_borderline_0021,3 6 5 4 7 1 0 2,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,8,2,False,controlled_dgp_borderline,False,
+mc_borderline_0022,0 1 7 4 6 2 3 5,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,8,4,False,controlled_dgp_borderline,False,
+mc_borderline_0023,0 2 3 1 5 6 4 7,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,384,2,False,controlled_dgp_borderline,False,
+mc_borderline_0024,1 2 3 5 4 7 6 0,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,384,4,False,controlled_dgp_borderline,False,
+mc_borderline_0025,0 1 2 3 4 5 7 6,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,192,4,False,controlled_dgp_borderline,False,
+mc_borderline_0026,0 1 2 6 5 3 4 7,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,384,4,False,controlled_dgp_borderline,False,
+mc_borderline_0027,1 2 0 4 5 3 7 6,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,8,3,False,controlled_dgp_borderline,False,
+mc_borderline_0028,0 3 1 4 7 6 5 2,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,384,2,False,controlled_dgp_borderline,False,
+mc_borderline_0029,0 5 2 3 7 6 1 4,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,384,3,False,controlled_dgp_borderline,False,
+mc_borderline_0030,5 1 2 4 3 7 0 6,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,8,2,False,controlled_dgp_borderline,False,
+mc_borderline_0031,0 3 7 1 4 6 5 2,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,8,3,False,controlled_dgp_borderline,False,
+mc_borderline_0032,0 4 2 3 5 6 1 7,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,192,2,False,controlled_dgp_borderline,False,
+mc_borderline_0033,5 1 2 7 4 6 0 3,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,192,4,False,controlled_dgp_borderline,False,
+mc_borderline_0034,0 3 4 1 6 5 2 7,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,384,3,False,controlled_dgp_borderline,False,
+mc_borderline_0035,0 5 2 4 3 6 1 7,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,8,4,False,controlled_dgp_borderline,False,
+mc_borderline_0036,3 1 6 4 5 0 2 7,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,192,2,False,controlled_dgp_borderline,False,
+mc_borderline_0037,0 1 7 5 4 6 2 3,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,192,2,False,controlled_dgp_borderline,False,
+mc_borderline_0038,0 2 1 4 7 6 3 5,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,8,2,False,controlled_dgp_borderline,False,
+mc_borderline_0039,7 1 2 4 5 0 3 6,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,384,2,False,controlled_dgp_borderline,False,
+mc_borderline_0040,0 1 3 4 6 7 2 5,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,384,3,False,controlled_dgp_borderline,False,
+mc_borderline_0041,0 1 2 6 5 3 7 4,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,384,4,False,controlled_dgp_borderline,False,
+mc_borderline_0042,0 1 2 3 4 5 7 6,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,192,2,False,controlled_dgp_borderline,False,
+mc_borderline_0043,0 1 7 4 6 2 3 5,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,384,4,False,controlled_dgp_borderline,False,
+mc_borderline_0044,0 3 2 5 6 7 1 4,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,8,2,False,controlled_dgp_borderline,False,
+mc_borderline_0045,4 3 6 7 1 0 2 5,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,8,3,False,controlled_dgp_borderline,False,
+mc_borderline_0046,0 1 3 4 7 5 2 6,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,192,4,False,controlled_dgp_borderline,False,
+mc_borderline_0047,0 1 2 5 3 6 4 7,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,192,3,False,controlled_dgp_borderline,False,
+mc_borderline_0048,0 1 2 5 4 7 3 6,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,384,4,False,controlled_dgp_borderline,False,
+mc_borderline_0049,0 1 3 7 4 2 5 6,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,192,2,False,controlled_dgp_borderline,False,
+mc_borderline_0050,0 5 2 3 1 6 4 7,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,8,4,False,controlled_dgp_borderline,False,
+mc_borderline_0051,4 1 2 3 5 7 0 6,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,384,3,False,controlled_dgp_borderline,False,
+mc_borderline_0052,0 1 3 4 7 6 2 5,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,384,2,False,controlled_dgp_borderline,False,
+mc_borderline_0053,0 6 2 3 4 7 1 5,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,8,2,False,controlled_dgp_borderline,False,
+mc_borderline_0054,4 1 2 5 6 0 3 7,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,192,2,False,controlled_dgp_borderline,False,
+mc_borderline_0055,0 1 4 3 6 7 2 5,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,8,2,False,controlled_dgp_borderline,False,
+mc_borderline_0056,0 2 3 5 6 1 4 7,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,192,3,False,controlled_dgp_borderline,False,
+mc_borderline_0057,6 1 2 4 7 0 3 5,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,384,3,False,controlled_dgp_borderline,False,
+mc_borderline_0058,0 1 3 5 2 7 6 4,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,384,4,False,controlled_dgp_borderline,False,
+mc_borderline_0059,0 2 3 5 6 7 1 4,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,8,3,False,controlled_dgp_borderline,False,
+mc_borderline_0060,7 1 6 4 5 3 0 2,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,192,2,False,controlled_dgp_borderline,False,
+mc_borderline_0061,0 3 7 5 4 2 1 6,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,8,3,False,controlled_dgp_borderline,False,
+mc_borderline_0062,0 7 2 6 5 3 1 4,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,8,3,False,controlled_dgp_borderline,False,
+mc_borderline_0063,7 1 2 3 4 0 5 6,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,8,2,False,controlled_dgp_borderline,False,
+mc_borderline_0064,0 1 7 4 2 3 5 6,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,192,2,False,controlled_dgp_borderline,False,
+mc_borderline_0065,0 3 6 7 4 5 2 1,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,384,4,False,controlled_dgp_borderline,False,
+mc_borderline_0066,2 1 5 4 3 7 0 6,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,192,3,False,controlled_dgp_borderline,False,
+mc_borderline_0067,0 1 2 3 5 7 6 4,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,192,3,False,controlled_dgp_borderline,False,
+mc_borderline_0068,0 2 3 4 7 1 5 6,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,384,3,False,controlled_dgp_borderline,False,
+mc_borderline_0069,4 3 6 2 7 1 0 5,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,8,4,False,controlled_dgp_borderline,False,
+mc_borderline_0070,0 3 1 5 4 2 6 7,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,384,2,False,controlled_dgp_borderline,False,
+mc_borderline_0071,0 5 6 2 7 1 3 4,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,192,4,False,controlled_dgp_borderline,False,
+mc_borderline_0072,4 1 2 5 7 0 3 6,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,192,4,False,controlled_dgp_borderline,False,
+mc_borderline_0073,0 1 5 3 7 6 2 4,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,8,3,False,controlled_dgp_borderline,False,
+mc_borderline_0074,0 7 2 3 4 5 1 6,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,192,2,False,controlled_dgp_borderline,False,
+mc_borderline_0075,7 1 2 3 4 5 0 6,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,384,3,False,controlled_dgp_borderline,False,
+mc_borderline_0076,0 1 2 3 4 5 7 6,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,8,3,False,controlled_dgp_borderline,False,
+mc_borderline_0077,0 4 2 3 7 1 5 6,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,192,4,False,controlled_dgp_borderline,False,
+mc_borderline_0078,4 1 6 2 5 3 0 7,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,192,2,False,controlled_dgp_borderline,False,
+mc_borderline_0079,0 3 1 4 5 6 2 7,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,384,4,False,controlled_dgp_borderline,False,
+mc_borderline_0080,0 6 5 3 7 2 4 1,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,8,3,False,controlled_dgp_borderline,False,
+mc_borderline_0081,7 1 2 0 4 5 6 3,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,8,2,False,controlled_dgp_borderline,False,
+mc_borderline_0082,0 3 5 4 2 1 6 7,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,8,3,False,controlled_dgp_borderline,False,
+mc_borderline_0083,0 2 6 1 5 3 7 4,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,384,2,False,controlled_dgp_borderline,False,
+mc_borderline_0084,7 1 2 4 5 0 3 6,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,192,4,False,controlled_dgp_borderline,False,
+mc_borderline_0085,0 1 5 6 4 3 7 2,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,8,2,False,controlled_dgp_borderline,False,
+mc_borderline_0086,0 4 2 3 5 7 1 6,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,384,2,False,controlled_dgp_borderline,False,
+mc_borderline_0087,4 1 2 3 5 6 0 7,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,8,4,False,controlled_dgp_borderline,False,
+mc_borderline_0088,0 3 2 5 4 6 1 7,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,192,2,False,controlled_dgp_borderline,False,
+mc_borderline_0089,0 6 2 3 5 1 4 7,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,384,3,False,controlled_dgp_borderline,False,
+mc_borderline_0090,4 3 2 6 7 5 0 1,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,8,3,False,controlled_dgp_borderline,False,
+mc_borderline_0091,0 1 4 3 7 6 2 5,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,192,3,False,controlled_dgp_borderline,False,
+mc_borderline_0092,0 7 2 3 4 1 5 6,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,8,2,False,controlled_dgp_borderline,False,
+mc_borderline_0093,2 1 5 4 3 7 0 6,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,192,4,False,controlled_dgp_borderline,False,
+mc_borderline_0094,0 1 2 6 4 3 7 5,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,8,4,False,controlled_dgp_borderline,False,
+mc_borderline_0095,0 6 2 5 3 1 4 7,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,192,4,False,controlled_dgp_borderline,False,
+mc_borderline_0096,2 1 4 6 7 0 3 5,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,192,3,False,controlled_dgp_borderline,False,
+mc_borderline_0097,0 1 5 3 6 7 2 4,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,384,2,False,controlled_dgp_borderline,False,
+mc_borderline_0098,0 4 2 5 6 3 1 7,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,192,4,False,controlled_dgp_borderline,False,
+mc_borderline_0099,0 3 2 4 7 5 1 6,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,384,2,False,controlled_dgp_borderline,False,
+mc_borderline_0100,0 1 4 3 6 7 2 5,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,192,3,False,controlled_dgp_borderline,False,
+mc_borderline_0101,0 6 2 5 7 3 4 1,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,384,4,False,controlled_dgp_borderline,False,
+mc_borderline_0102,7 1 2 4 5 3 0 6,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,8,2,False,controlled_dgp_borderline,False,
+mc_borderline_0103,0 1 3 5 4 7 6 2,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,384,4,False,controlled_dgp_borderline,False,
+mc_borderline_0104,0 5 2 6 4 3 1 7,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,192,2,False,controlled_dgp_borderline,False,
+mc_borderline_0105,2 3 7 4 5 0 1 6,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,8,4,False,controlled_dgp_borderline,False,
+mc_borderline_0106,0 1 3 4 6 7 2 5,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,384,2,False,controlled_dgp_borderline,False,
+mc_borderline_0107,0 7 2 3 6 5 1 4,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,384,2,False,controlled_dgp_borderline,False,
+mc_borderline_0108,7 1 2 4 3 0 5 6,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,384,2,False,controlled_dgp_borderline,False,
+mc_borderline_0109,0 3 4 1 5 6 2 7,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,384,4,False,controlled_dgp_borderline,False,
+mc_borderline_0110,0 5 2 7 3 6 1 4,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,384,4,False,controlled_dgp_borderline,False,
+mc_borderline_0111,2 3 0 4 7 5 1 6,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,384,3,False,controlled_dgp_borderline,False,
+mc_borderline_0112,0 1 4 3 5 7 6 2,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,384,2,False,controlled_dgp_borderline,False,
+mc_borderline_0113,0 2 3 4 7 6 1 5,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,192,3,False,controlled_dgp_borderline,False,
+mc_borderline_0114,4 3 6 1 7 0 2 5,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,8,4,False,controlled_dgp_borderline,False,
+mc_borderline_0115,0 1 5 4 6 7 2 3,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,8,4,False,controlled_dgp_borderline,False,
+mc_borderline_0116,0 7 6 5 2 3 1 4,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,384,3,False,controlled_dgp_borderline,False,
+mc_borderline_0117,7 3 2 0 4 1 5 6,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,192,3,False,controlled_dgp_borderline,False,
+mc_borderline_0118,0 3 2 1 4 6 5 7,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,192,2,False,controlled_dgp_borderline,False,
+mc_borderline_0119,0 6 7 3 5 2 1 4,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,192,2,False,controlled_dgp_borderline,False,
+mc_borderline_0120,3 1 2 5 4 7 0 6,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,8,3,False,controlled_dgp_borderline,False,
+mc_borderline_0121,0 1 6 7 4 3 2 5,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,384,2,False,controlled_dgp_borderline,False,
+mc_borderline_0122,0 7 2 5 3 6 1 4,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,192,2,False,controlled_dgp_borderline,False,
+mc_borderline_0123,0 1 6 4 5 2 3 7,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,8,3,False,controlled_dgp_borderline,False,
+mc_borderline_0124,0 1 6 7 4 2 3 5,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,192,2,False,controlled_dgp_borderline,False,
+mc_borderline_0125,0 5 2 1 3 7 6 4,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,384,2,False,controlled_dgp_borderline,False,
+mc_borderline_0126,7 1 2 4 6 0 3 5,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,192,3,False,controlled_dgp_borderline,False,
+mc_borderline_0127,0 1 5 3 7 6 2 4,monte_carlo_borderline_operation,synthetic near-boundary operation,,,,384,3,False,controlled_dgp_borderline,False,

@@ -1,0 +1,85 @@
+{
+  "rows": [
+    {
+      "config": "all_features",
+      "n_features": 43,
+      "macro_f1": 0.8848647005168744,
+      "alpha_opt": 0.35,
+      "max_condition_number": 1741225.1851200252,
+      "spearman_rank": -0.329826367278013,
+      "top25_overlap": 0.0
+    },
+    {
+      "config": "truth_table_only",
+      "n_features": 8,
+      "macro_f1": 0.48248757971365464,
+      "alpha_opt": 0.35,
+      "max_condition_number": 303343.2906167648,
+      "spearman_rank": -0.36993140453583245,
+      "top25_overlap": 0.0
+    },
+    {
+      "config": "avalanche_hamming_only",
+      "n_features": 14,
+      "macro_f1": 0.7145976432827386,
+      "alpha_opt": 0.15,
+      "max_condition_number": 548616.4848909528,
+      "spearman_rank": -0.5713744734372926,
+      "top25_overlap": 0.0
+    },
+    {
+      "config": "algebraic_only",
+      "n_features": 5,
+      "macro_f1": 0.6838483835005574,
+      "alpha_opt": 0.0,
+      "max_condition_number": 434790.38773461105,
+      "spearman_rank": 0.8623457146836052,
+      "top25_overlap": 0.08
+    },
+    {
+      "config": "structural_cycles_only",
+      "n_features": 5,
+      "macro_f1": 0.44405425721690545,
+      "alpha_opt": 0.65,
+      "max_condition_number": 677716.7828317644,
+      "spearman_rank": -0.5599760993847446,
+      "top25_overlap": 0.0
+    },
+    {
+      "config": "complexity_removed",
+      "n_features": 40,
+      "macro_f1": 0.6753246753246753,
+      "alpha_opt": 0.3,
+      "max_condition_number": 1495404.5940977011,
+      "spearman_rank": -0.33912398585538855,
+      "top25_overlap": 0.0
+    },
+    {
+      "config": "truth_table_removed",
+      "n_features": 35,
+      "macro_f1": 0.9628466483011937,
+      "alpha_opt": 0.95,
+      "max_condition_number": 9778061752.803385,
+      "spearman_rank": -0.30301662983351263,
+      "top25_overlap": 0.0
+    },
+    {
+      "config": "avalanche_removed",
+      "n_features": 29,
+      "macro_f1": 0.9134213533358224,
+      "alpha_opt": 0.35,
+      "max_condition_number": 1212996.3709153486,
+      "spearman_rank": -0.24671081428792976,
+      "top25_overlap": 0.0
+    },
+    {
+      "config": "minimal_cryptographic_metrics",
+      "n_features": 5,
+      "macro_f1": 0.8503117297375671,
+      "alpha_opt": 0.4,
+      "max_condition_number": 393266.56877595466,
+      "spearman_rank": -0.2739652818384886,
+      "top25_overlap": 0.0
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "best_alpha": 0.0,
+  "ranking_metrics": [
+    {
+      "method": "rule_based_rank",
+      "spearman_vs_composite": 0.936360609697185,
+      "top10_overlap": 0.4,
+      "top25_overlap": 0.44,
+      "top50_overlap": 0.58,
+      "real_top50_share": 0.0
+    },
+    {
+      "method": "generating_element_rank",
+      "spearman_vs_composite": -0.5713744734372926,
+      "top10_overlap": 0.0,
+      "top25_overlap": 0.0,
+      "top50_overlap": 0.0,
+      "real_top50_share": 0.0
+    },
+    {
+      "method": "hybrid_rank",
+      "spearman_vs_composite": 0.9922339183201153,
+      "top10_overlap": 0.8,
+      "top25_overlap": 0.92,
+      "top50_overlap": 0.9,
+      "real_top50_share": 0.0
+    }
+  ]
+}

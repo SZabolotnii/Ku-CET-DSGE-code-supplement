@@ -1,0 +1,89 @@
+{
+  "sample_size_sweep": [
+    {
+      "n": 50,
+      "model_repetitions": 20,
+      "metric_bootstrap_repetitions": 1000,
+      "mean_macro_f1": 0.7758482489732489,
+      "std_macro_f1": 0.14580654098952212,
+      "ci95_low": 0.7091170964452214,
+      "ci95_high": 0.8364874847374848,
+      "bias_from_one": 0.2241517510267511
+    },
+    {
+      "n": 100,
+      "model_repetitions": 20,
+      "metric_bootstrap_repetitions": 1000,
+      "mean_macro_f1": 0.8599407845112517,
+      "std_macro_f1": 0.05953371615713343,
+      "ci95_low": 0.8327158945592181,
+      "ci95_high": 0.885638381471283,
+      "bias_from_one": 0.14005921548874833
+    },
+    {
+      "n": 200,
+      "model_repetitions": 20,
+      "metric_bootstrap_repetitions": 1000,
+      "mean_macro_f1": 0.9547825233982878,
+      "std_macro_f1": 0.028607184247743993,
+      "ci95_low": 0.9408736631934537,
+      "ci95_high": 0.9669218459874267,
+      "bias_from_one": 0.04521747660171216
+    },
+    {
+      "n": 500,
+      "model_repetitions": 20,
+      "metric_bootstrap_repetitions": 1000,
+      "mean_macro_f1": 0.9733218393791218,
+      "std_macro_f1": 0.028114741146351534,
+      "ci95_low": 0.9597977802948046,
+      "ci95_high": 0.9848860721940634,
+      "bias_from_one": 0.026678160620878244
+    },
+    {
+      "n": 1000,
+      "model_repetitions": 20,
+      "metric_bootstrap_repetitions": 1000,
+      "mean_macro_f1": 0.9969456757227528,
+      "std_macro_f1": 0.004074412541569985,
+      "ci95_low": 0.9951645700032494,
+      "ci95_high": 0.9984796221924171,
+      "bias_from_one": 0.003054324277247167
+    }
+  ],
+  "scenario_summary": [
+    {
+      "source": "monte_carlo_borderline_operation",
+      "count": 128,
+      "acceptable_share": 0.7734375,
+      "mean_avalanche_error": 0.15321180555555555,
+      "mean_balance_error": 0.0,
+      "mean_complexity": 11.268021680172026
+    },
+    {
+      "source": "monte_carlo_random_permutation",
+      "count": 256,
+      "acceptable_share": 0.78515625,
+      "mean_avalanche_error": 0.16536458333333334,
+      "mean_balance_error": 0.0,
+      "mean_complexity": 11.426262988782678
+    },
+    {
+      "source": "monte_carlo_weak_operation",
+      "count": 256,
+      "acceptable_share": 0.0,
+      "mean_avalanche_error": 0.4239366319444444,
+      "mean_balance_error": 0.24560546875,
+      "mean_complexity": 3.65625
+    },
+    {
+      "source": "real_cet_reconstructed",
+      "count": 384,
+      "acceptable_share": 0.375,
+      "mean_avalanche_error": 0.375,
+      "mean_balance_error": 0.0,
+      "mean_complexity": 11.824342188131013
+    }
+  ],
+  "note": "Each sample-size cell uses 20 full model refits and 1000 bootstrap replicates over the fitted metrics for confidence bounds."
+}

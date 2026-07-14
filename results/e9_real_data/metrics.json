@@ -1,0 +1,13 @@
+{
+  "r1_complete": true,
+  "r2_public_sources_status": "not_extracted_in_v1; local PDFs used for reconstruction",
+  "r3_author_data_status": "not_provided",
+  "real_rows": 384,
+  "base_rows": 8,
+  "prediction_distribution": {
+    "linear_weak": 241,
+    "high_complexity_good": 126,
+    "derived_good": 15,
+    "base_good": 2
+  }
+}

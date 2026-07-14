@@ -1,0 +1,56 @@
+{
+  "protocol": "rotating class-holdout open-set; representational (de-leaked) features for both detectors",
+  "n_folds": 5,
+  "mean_auroc_generating_element": 0.83289845631313,
+  "mean_auroc_nearest_centroid": 0.6648301262787822,
+  "ge_wins_folds": 4,
+  "rule_baseline_auroc": null,
+  "rule_baseline_note": "threshold rules emit a known-class label with no 'unknown' output, so they cannot produce a novelty ranking — AUROC is undefined. This is the structural capability gap the reconstruction score fills.",
+  "folds": [
+    {
+      "held_out_class": "borderline_avalanche",
+      "n_known_train": 666,
+      "n_known_test": 286,
+      "n_novel": 72,
+      "best_alpha": 0.35,
+      "auroc_generating_element": 0.796207264957265,
+      "auroc_nearest_centroid": 0.47758838383838387
+    },
+    {
+      "held_out_class": "derived_good",
+      "n_known_train": 610,
+      "n_known_test": 262,
+      "n_novel": 152,
+      "best_alpha": 0.65,
+      "auroc_generating_element": 0.7883311570912013,
+      "auroc_nearest_centroid": 0.5048212133386902
+    },
+    {
+      "held_out_class": "high_complexity_good",
+      "n_known_train": 514,
+      "n_known_test": 221,
+      "n_novel": 289,
+      "best_alpha": 0.9,
+      "auroc_generating_element": 0.7976091687673207,
+      "auroc_nearest_centroid": 0.6184925394166184
+    },
+    {
+      "held_out_class": "linear_weak",
+      "n_known_train": 540,
+      "n_known_test": 232,
+      "n_novel": 252,
+      "best_alpha": 0.65,
+      "auroc_generating_element": 0.7823446907498632,
+      "auroc_nearest_centroid": 0.7232484948002189
+    },
+    {
+      "held_out_class": "non_bijective_weak",
+      "n_known_train": 538,
+      "n_known_test": 230,
+      "n_novel": 256,
+      "best_alpha": 0.75,
+      "auroc_generating_element": 1.0,
+      "auroc_nearest_centroid": 1.0
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "a1_leakage_audit": "results/phase_a/a1_leakage_audit/metrics.json",
+  "a1_deleaked_multiclass": "results/phase_a/a1_deleaked_multiclass/metrics.json",
+  "a2_open_set": "results/phase_a/a2_open_set/metrics.json",
+  "a3_independent_ranking": "results/phase_a/a3_independent_ranking/metrics.json",
+  "summary_markdown": "results/phase_a/phase_a_summary.md"
+}

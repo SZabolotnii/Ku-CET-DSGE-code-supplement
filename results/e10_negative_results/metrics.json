@@ -1,0 +1,13 @@
+{
+  "negative_result_notes": [
+    "# Negative and Boundary Result Analysis",
+    "",
+    "This document records boundaries of applicability and prevents overclaiming.",
+    "",
+    "## Observed cases",
+    "",
+    "- Rule-based baseline equals the generating-element model in the binary sanity task; this task is treated only as pipeline verification.",
+    "- alpha = 0.5 is a degenerate control point and is not used as an adaptation candidate.",
+    "- No result is interpreted as proof of cryptographic security."
+  ]
+}

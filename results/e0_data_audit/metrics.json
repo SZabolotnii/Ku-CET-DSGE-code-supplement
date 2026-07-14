@@ -1,0 +1,8 @@
+{
+  "operation_rows": 1024,
+  "feature_rows": 1024,
+  "real_reconstructed_rows": 384,
+  "base_rows": 8,
+  "operation_hash": "a40b050aa7eb3667d8d69aba395208e937750e5efabae5f76113205aaf0305c8",
+  "feature_hash": "08e8cd111735f44ddd804cd6c77b2f629e3bbea39a4a9b82d2837305542e2ba0"
+}

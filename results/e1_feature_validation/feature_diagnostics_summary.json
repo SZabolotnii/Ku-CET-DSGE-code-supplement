@@ -1,0 +1,9 @@
+{
+  "n_features": 43,
+  "constant_columns": [],
+  "has_nan": false,
+  "has_inf": false,
+  "condition_before_pruning": 1.968696376081552e+18,
+  "condition_after_pruning": 1.968696376081552e+18,
+  "feature_distribution_by_class": true
+}

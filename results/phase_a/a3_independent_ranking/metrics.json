@@ -1,0 +1,36 @@
+{
+  "best_alpha": 0.0,
+  "independent_target": "nonlinearity (Walsh-Hadamard); absent from features and composite score",
+  "nonlinearity_distribution": {
+    "0": 879,
+    "1": 32,
+    "2": 113
+  },
+  "rows": [
+    {
+      "scorer": "composite",
+      "spearman_vs_nonlinearity": 0.47246731838853456,
+      "spearman_vs_neg_diff_uniformity": 0.7502911165119192,
+      "spearman_vs_composite_circular": 1.0
+    },
+    {
+      "scorer": "rule_based",
+      "spearman_vs_nonlinearity": 0.34248034163209723,
+      "spearman_vs_neg_diff_uniformity": 0.5670261450883907,
+      "spearman_vs_composite_circular": 0.936360609697185
+    },
+    {
+      "scorer": "reconstruction",
+      "spearman_vs_nonlinearity": -0.21886870389272547,
+      "spearman_vs_neg_diff_uniformity": -0.42454224784091105,
+      "spearman_vs_composite_circular": -0.329826367278013
+    },
+    {
+      "scorer": "hybrid",
+      "spearman_vs_nonlinearity": 0.45262438939738714,
+      "spearman_vs_neg_diff_uniformity": 0.724430578122171,
+      "spearman_vs_composite_circular": 0.9914830501097642
+    }
+  ],
+  "note": "spearman_vs_composite_circular reproduces the paper's inflated agreement; spearman_vs_nonlinearity is the honest, non-circular signal."
+}
