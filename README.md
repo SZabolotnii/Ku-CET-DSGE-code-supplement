@@ -2,8 +2,8 @@
 
 Reproduction package for the paper
 
-> **Open-Set Screening of CET Stream-Cipher Operations in a Generating-Element
-> Space** — S. Zabolotnii et al., 2026 (submitted to *Pragmatic Cybersecurity*).
+> **Open-set detection of unknown operation classes by reconstruction error in a
+> generating-element space** — Anonymous, 2026 (under double-blind review).
 
 ## What the paper shows
 
